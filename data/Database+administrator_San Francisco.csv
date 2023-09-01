@@ -1,0 +1,1341 @@
+,Position,City,Job Title,Salary,Job Description,Job details,Rating,Company Name,Location,URL
+0,Database+administrator,San Francisco,"new post Database Administrator
+- job post",-1,"<div>
+ <p><b><i>Every day, we work together for what matters – bold, swift, and equitable climate action.</i></b></p>
+ <p><b><br> ABOUT THE ROLE</b></p>
+ <p> At 3Degrees, we help companies around the globe work toward a decarbonized future. We are looking for a SQL Database Administrator to join our fast-growing technology team, within a thriving B Corp focused on supporting multinational corporations with innovative solutions to take urgent action on climate change. If this aligns with your passion and deep database management expertise, you’ll find an opportunity to collaborate with business unit leaders to develop, design, and administer scalable, mission-critical applications. You will be a key contributor in maintaining and improving our MS SQL Server database ecosystem. In this role, you will have the opportunity to creatively contribute to application structure and shape system architecture.</p>
+ <p><i> This is a full-time position preferably located in San Francisco, CA or Portland, OR, and will report to the Senior Systems Engineer. A remote home office will be considered for highly qualified candidates within the United States with an</i><i> agreement to travel for training and collaboration.</i></p>
+ <p><b> WHAT YOU’LL DO</b></p>
+ <p><b> Manage SQL database and infrastructure design:</b></p>
+ <ul>
+  <li> Work with application developers, project and product managers, infrastructure specialists, and end users to develop optimal database systems and architecture, especially in a cloud environment (MS Azure)</li>
+  <li> Assist with schema design, code review, SQL query tuning</li>
+  <li> Design systems for redundancy, high availability, geo-redundancy, and scalability</li>
+  <li> Test and monitor database performance; configure system automations and alerts</li>
+  <li> Design and perform data extracts, loads, and conversions, including with external data warehouse systems (Snowflake)</li>
+ </ul>
+ <p><b> Ensure data integrity and security:</b></p>
+ <ul>
+  <li> Design, build, and manage environments, servers, and databases to safeguard personal data</li>
+  <li> Manage database access</li>
+  <li> Ensure server software and OS’s are patched</li>
+  <li> Ensure servers and their data are reliably and efficiently backed up</li>
+ </ul>
+ <p><b> Act as SQL subject matter expert for project and product initiatives:</b></p>
+ <ul>
+  <li> Provide advice on best practices as our company and systems grow</li>
+ </ul>
+ <ul>
+  <li> Perform data conversions from other database engines (e.g. Postgres, MySQL)</li>
+  <li> Train users in other technical roles on database techniques, principles, and best practices</li>
+  <li> Create and manage database reports, visualizations, and dashboards</li>
+ </ul>
+ <p><b> ABOUT YOU</b></p>
+ <p> You are highly proficient in managing Microsoft SQL Server. You thrive in a multi-faceted role that covers multiple aspects of the software development life cycle in an Agile environment. Additionally, you are an analytical problem solver and critical thinker with a knack for evaluating existing applications, and envisioning ways to enhance these applications to improve how the business operates. We believe that an individual with the following experience will have the best opportunity for success in this role:</p>
+ <ul>
+  <li> 4+ years of experience administering Microsoft SQL in production environments</li>
+  <li> 1+ years of experience managing MS SQL in a Microsoft Azure environment, including Azure Managed SQL</li>
+  <li> Deep understanding of multiple MS SQL versions (2008-2019) and editions</li>
+  <li> Experience with other SQL database engines such as Postgres and MySQL</li>
+  <li> Experience developing T-SQL scripts on MS SQL Servers</li>
+  <li> Familiar with PowerShell, programming languages, and API’s</li>
+ </ul>
+ <ul>
+  <li> Experience in SSIS or other ETL</li>
+  <li> Experience in SSRS</li>
+  <li> Ability to clearly and effectively document system changes upon implementation</li>
+  <li> Experience in business process analysis, data analysis</li>
+  <li> Understanding of TCP/IP networking and network design</li>
+  <li> Knowledge of IT security best practices</li>
+  <li> Good communication and interpersonal skills</li>
+  <li> BS degree in a computer discipline or equivalent work experiences</li>
+ </ul>
+ <p><b> HOW WE DEFINE SUCCESS</b></p>
+ <p><b> Within 3o days</b></p>
+ <ul>
+  <li> Familiar with and working regularly in 3Degrees' SQL environments, tech stack, tools, and development processes</li>
+  <li> Contributing to one or more development or infrastructure projects</li>
+ </ul>
+ <p><b> Within 60 days</b></p>
+ <ul>
+  <li> Have connected with multiple department stakeholders, as identified by your manager, and undergone other assigned orientation in order to gain familiarity with 3Degrees business structure and corporate tech needs</li>
+  <li> Demonstrating familiarity with Agile methodologies by working alongside our Systems and/or Development teams on sprints and/or scrum sessions</li>
+  <li> Successfully making progress on two or more high-priority SQL development or infrastructure projects as assigned by your manager</li>
+ </ul>
+ <p><b> Within 180 days (six months)</b></p>
+ <ul>
+  <li> Have groundwork in place for a multi-year database infrastructure growth plan, including but not limited to migration to Azure Managed SQL instances, reporting and replica server configuration, clustering with real-time failover, global redundancy, and raising our SQL database compatibility levels, with expected timelines</li>
+  <li> Identifying system and process improvements and contributing to 3Degrees tech direction</li>
+ </ul>
+ <p><b> COMPENSATION &amp; BENEFITS</b></p>
+ <ul>
+  <li><b> Compensation:</b> The starting base pay for this position is $100,800 to $150,000 in the US. The total compensation package for the successful candidate in this role may exceed the base pay as it includes other incentive pay. The base pay is dependent upon many factors such as location, transferable or job-related skills, work experience, relevant training, business needs, and market demands. The base salary range is subject to change and may be modified in the future.</li>
+  <li><b> Benefits</b>: this position is eligible for a benefits package that includes medical, dental, vision, 401k, flexible paid time off and more. Additional information regarding the benefits available for this position can be found at: https://jobs.jobvite.com/3degrees/jobs/jointheteam</li>
+  <li><b> Supplemental Pay</b>: this position is eligible for discretionary bonus programs including the company’s profit sharing program and an annual performance bonus based on personal, department and company goals.</li>
+  <li> This compensation and benefits information is based on 3Degrees’ good faith estimate as of the date of publication and may be modified in the future.</li>
+ </ul>
+ <p></p>
+ <p><b> OUR COMMITMENT TO DIVERSITY, INCLUSION AND EQUITY</b></p>
+ <p> 3Degrees is an equal opportunity employer. We are committed to creating an inclusive environment where different perspectives contribute to better solutions. 3Degrees welcomes people regardless of race, color, religion, national origin, gender, gender identity or gender expression, age, sex, pregnancy, marital status, ancestry, disability, military or veteran status, sexual orientation, genetic information, or any other category protected by law.</p> #LI-Remote
+ <br> #LI-WW1
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$100,800 - $150,000 a year</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=9446bdda406f3f00&fccid=8bb35890ec502f3c&vjs=3
+1,Database+administrator,San Francisco,"new post Database Analyst(s)
+- job post",-1,"<p></p>
+<div>
+ <p>The ideal candidate(s) will be dedicated and responsive team players who can play a variety of roles on the database team. This role can be part- or full-time, although at least twenty hours per week is likely required for efficiency. Tiburon's office is located in downtown Tiburon, CA, with the possibility of remote employment for the right candidate.<br> <br> </p>
+ <p>Responsibilities:<br> </p>
+ <ul>
+  <li>Assist in managing the firm's contacts database in Salesforce (including data entry)<br> </li>
+  <li>Research and analyze current and potential future member contacts and companies<br> </li>Assist with other database projects as necessary, including preparation for semi-annual Tiburon CEO Summits 
+ </ul>
+ <p>Requirements:<br> </p>
+ <ul>
+  <li>Experience with Microsoft Office applications, especially Excel and Word <br> </li>
+  <li>Exceptional organizational and time-management skills; ability to manage oneself in a fast-paced working environment and meet multiple deadlines with limited supervision <br> </li>
+  <li>Ability to learn quickly and solve problems <br> </li>
+  <li>Outstanding attention to detail<br> </li>
+  <li>Ability to sit for extended periods of time<br> </li>
+  <li>Experience in professional services firm (e.g., management consulting firm, private equity firm, law firm) is a plus but not required<br> </li>Experience with Salesforce is a plus but not required 
+ </ul>
+ <p>Compensation:<br> </p>
+ <ul>
+  <li>New Database Analysts will start at $25 per hour<br> </li>
+  <li>All Database Analysts paid additional amounts for overtime hours<br> </li>
+  <li>Significant opportunities for professional growth and advancement for talented employees<br> </li>Paid time off, 100% individual health care insurance, and other benefits offered starting after 90 days of employment (for full-time employees only) 
+ </ul>
+ <p>Please email cover letter and resume to DatabaseAnalystResumes@TiburonAdvisors.Com.</p>
+</div>
+<p></p>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$25 an hour</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Part-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=b7c73952e514119f&fccid=ac1a719a64ca0628&vjs=3
+2,Database+administrator,San Francisco,"new post Database Analyst
+- job post",-1,"<p></p>
+<div>
+ <p><b>About WestEd</b></p> 
+ <p> As a community of over 1,000 researchers, practitioners, consultants, and administrative professionals from all backgrounds and life experiences, we are committed to making a qualitative difference in the lives of youth, children, and adults. We conduct and apply research, develop evidence-based solutions, and provide consulting services across the country in both rural and urban communities to improve equitable outcomes for individuals from infancy through adulthood. Serving as trusted partners in the areas of education, health, and justice, our teams enhance capacity within communities and school districts to prioritize impact — asking the right questions, customizing methodologies, developing relevant tools, and implementing best practices specific to a diverse range of stakeholder needs.</p> 
+ <p> Furthering diversity, equity, and inclusion is core to who we are and how we work. We are committed to working with our clients to illuminate and address disparities, value and elevate diverse voices, and ensure equitable access to our resources and services. Please review our Commitment to Equity, Diversity, and Inclusion. Come and join us!</p> 
+ <p> SPECIAL NOTICE REGARDING THE WORK LOCATION OF THIS POSITION—Although WestEd provides the option of working at one of its facilities for employees, many roles allow employees to choose to work remotely for their own convenience. The decision to allow remote work at the employee's convenience is based on the requirements of the position or project in question.</p> 
+ <p><b> Department Profile:</b></p> 
+ <p> WestEd is seeking to hire a database analyst/research associate who is a dynamic individual committed to our mission of improving learning for children, youth and adults, achieving equity, and promoting excellence through our work with education and other communities. You can learn more about WestEd by going to www.wested.org.</p> 
+ <p> WestEd is driven by high standards of scientific rigor and the conduct of inquiry. We work with clients to help them frame appropriate questions, develop and apply innovative methods to obtain reliable answers, and scan for findings that might have implications beyond a single program. These projects lead to better understanding of whether a program is effective, a policy is having the desired impact, a chosen approach is the most cost-effective way of accomplishing agreed-upon goals, whether an initiative should be continued, and how an effort can be improved.</p> 
+ <p><b> The Opportunity:</b></p> 
+ <p> WestEd seeks an experienced database analyst/research associate to work on a variety of evaluation and research projects. Approximately 75%+ of the position time will be spent supporting the effective implementation of a large federal discretionary grant monitoring project. The position will work within an existing project team to support large-scale, field-based research requiring strong quantitative and qualitative evaluation skills as well as excellent writing and inter-personal skills. The successful candidate will have a strong foundation in database management, implementation evaluation, exceptional project management skills, and experience in state- and federal-level school choice policy or state data systems.</p> 
+ <p> The remaining time will be spent conducting quantitative and qualitative analyses to support various research and evaluation projects across WestEd. Activities may include managing quantitative data and constructing datasets from various sources, observing programs being delivered in settings (such as classroom observations), conducting interviews and focus groups, reviewing and coding program documentation, analyzing quantitative and qualitative data to present to clients, conducting literature reviews and writing methodology sections, and describing results in reports and PowerPoint presentations.</p> 
+ <p> Some travel will be expected of the person hired for this position.</p> 
+ <p><b> Core Focus Areas:</b></p> 
+ <p> Specific duties and skills include, but are not limited to:</p> 
+ <p> Data collection and cleaning:</p> 
+ <ul> 
+  <li>Verify, clean, and update existing large award datasets</li> 
+  <li>Collect and process other existing education databases (e.g., Common Core of Data (CCD) and EDFacts) so that they can be used to address the research questions.</li> 
+  <li>Identify additional data sources (e.g., state databases) that could be used to address questions related to the charter school movement.</li> 
+ </ul> 
+ <p>Data Analysis, Reporting, and Dissemination</p> 
+ <ul> 
+  <li>Conduct descriptive and longitudinal analyses of CSP, CCD and EDFacts data.</li> 
+  <li>Conceptualize and develop data visualizations and data dashboards using Tableau and other data visualization tools.</li> 
+  <li>Contribute to CSP project deliverables by writing reports and presenting findings to various stakeholders.</li> 
+  <li>Predict, address, and respond to research questions from the charter school sector in a timely manner.</li> 
+  <li>Identify additional research questions and uses for the CSP project’s data related to the charter school movement.</li> 
+ </ul> 
+ <p>Data Management, Storage, and Security</p> 
+ <ul> 
+  <li>Oversee the merging of the CSP Grantee Awards Database with other extant databases, such as the Common Core of Data (CCD) and EDFacts files.</li> 
+  <li>Oversee and manage the data quality reviews for Department of Education databases.</li> 
+  <li>Ensure that data files are stored and backed-up according to the CSP project’s data security protocols and data sharing agreements.</li> 
+ </ul> 
+ <p>Mixed-Methods Research and Evaluation:</p> 
+ <ul> 
+  <li>Synthesize large amounts of information from multiple sources to produce succinct reports of findings tailored to the appropriate audience</li> 
+  <li>Conduct quantitative and/or qualitative analysis</li> 
+  <li>Conduct interviews and focus groups with high-profile clients or stakeholders</li> 
+  <li>Conduct program observations according to established observation protocols</li> 
+  <li>Author sections of reports and proposals and/or oversee the completion of reports and proposals</li> 
+ </ul> 
+ <p>Resource Development:</p> 
+ <ul> 
+  <li>Participate in the development of proposals for new work</li> 
+ </ul> 
+ <p><b>Qualifications:</b></p> 
+ <p> Education:</p> 
+ <ul> 
+  <li>Masters or PhD in educational research or evaluation, or related field</li> 
+ </ul> 
+ <p>Experience:</p> 
+ <ul> 
+  <li>5+ years professional experience in educational research, evaluation, or related field</li> 
+  <li>Deep knowledge of state and federal school choice policy, especially as related to charter school finance and lending</li> 
+  <li>Experience conducting applied research in education, psychology, and/or other social sciences, including the management of multiple field-based assignments as well as conducting interviews and observations in field-based settings</li> 
+ </ul> 
+ <p>Expertise:</p> 
+ <ul> 
+  <li>Ability to quickly learn and effectively use specialized project management software</li> 
+  <li>Excellent communication and organizational skills, including written communication and presentation skills that accurately and effectively communicate findings to lay audiences</li> 
+  <li>Quantitative and qualitative data management</li> 
+  <li>Proficiency in statistical software (e.g., Stata and R)</li> 
+  <li>Demonstrated ability to work as a team player and to treat colleagues, clients, and stakeholders respectfully</li> 
+  <li>Ability to take direction from supervisors or colleagues and to work on one’s own</li> 
+  <li>Ability to be flexible and to be responsive to changing circumstances and competing requests for information</li> 
+ </ul> 
+ <ul>
+  <li>Note: Visa sponsorship is not available for this position. Successful candidates must be authorized to work in the United States.</li>
+ </ul> 
+ <p><b> SALARY AND BENEFITS:</b></p> 
+ <p> The full salary range for this position, WestEd level G, is $85,440 to $128,200 but WestEd does not typically hire at or near the top of the salary range. The typical hiring range for this role is $85,440 to $106,800. The actual offer takes into account multiple factors including but not limited to education; experience; internal equity, and other organizational needs.</p> 
+ <p> In addition to the base salary, benefits include:</p> 
+ <ul>
+  <li>15% contribution toward retirement effective day 1 of employment</li>
+ </ul> 
+ <ul>
+  <li>Pre-tax Flexible Spending Accounts</li>
+ </ul> 
+ <ul>
+  <li>All health/welfare benefits are effective first of the month following hire date</li>
+ </ul> 
+ <ul>
+  <li>PTO: 3 weeks’ vacation (increases to 4 weeks beginning the 4th year of employment), paid holidays, and 12 days paid sick leave per year</li>
+ </ul> 
+ <ul>
+  <li>Life Insurance: value of 3x gross salary</li>
+ </ul> 
+ <ul>
+  <li>Opportunities for annual merit-based performance increases + annual incentives</li>
+ </ul> 
+ <ul>
+  <li>Professional development opportunities &amp; mentorship program</li>
+ </ul> 
+ <p> For more detail about our benefits, go to:</p> 
+ <p> https://www.wested.org/work-at-wested/benefits/</p> 
+ <p> Committed to the diversity of race, ethnicities, perspectives, and opportunities, WestEd offers a variety of social and professional learning communities, such as Employee Resource groups, the Data Intelligence, Insights, and Innovation PLC, and the WestEd Parent Community, just to name a few. We hope you’ll consider joining us to build better schools, communities, learning pathways, and more! #LI-Hybrid</p>
+ <p></p>
+ <p> Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities</p>
+ <p> The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)</p>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$85,440 - $106,800 a year</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=d3cfc9d661d5ebda&fccid=66b2e7e4dce53fbe&vjs=3
+3,Database+administrator,San Francisco,"new post Database/Salesforce Coordinator
+- job post",Estimated $71.8K - $90.9K a year,"<div>
+ <div>
+  <div>
+   NAI Northern California is a technology-enabled commercial real estate brokerage with offices located in San Francisco, Oakland, and San Jose. Our aggressive growth strategy has continued to bear fruit as we are one of the fastest-growing commercial brokerages in the Bay Area in terms of both revenue and headcount. We have ambitious plans to expand in 2021, and we are increasing our talent pool dramatically!
+  </div>
+  <div></div>
+  <div>
+   <br> NAI NorCal has created an innovative culture and we pride ourselves on having disrupted traditional brokerage organizations. We foster the success of our newer advisors with a structured training program, mentorship, and coaching. Advisors love it here for that very reason - our collaboration, transparency, and tech stack are simply without parallel.
+  </div>
+  <div></div>
+  <div>
+   <br> We are seeking a 
+   <b>Database/Salesforce Coordinator </b>who will support NAI Northern California’s brokers, and staff. You will assist in data research and integration, monitoring data quality, analytics, generating and analyzing reports.
+  </div>
+  <div></div>
+  <div>
+   <br> If you're interested, we'd love to hear from you!
+  </div>
+ </div> 
+ <div>
+  <div>
+   <h3 class=""jobSectionHeader""><b>Responsibilities: </b></h3>
+   <ul>
+    <ul>
+     <li>Salesforce Administrator, Developer, Business Analyst - User &amp; Data Management/ Data Analysis:</li>
+     <li> Conduct On-Boarding / Off-Boarding operations alongside Data Admin for Brokers and Staff as well as general training </li>
+     <li>Manage Salesforce Users while maintaining Call Automation Systems </li>
+     <li>Data Quality - Conduct company Data Quality best practices for Data Standardization, Defragmentation, Deduplication, and Research techniques for single or mass updates </li>
+     <li>Data Loading - Utilize ETL Tools (DemandTools) to mass insert and update records into Salesforce via Operational and ad-hoc protocols </li>
+     <li>Manage operational dashboards for management and brokers </li>
+     <li>Conduct ad-hoc reporting for management and brokers </li>
+     <li>Manage and repair Broker Call Automation Systems with Data Admin </li>
+     <li>Process Documentation of Operational protocols </li>
+     <li>Utilize Salesforce to create and manage Salesforce Users within Database </li>
+     <li>Cleanse and Complete Spreadsheet data for Data Loading Processes </li>
+     <li>Development / Lead Generation</li>
+     <li> Management of Salesforce automation efficiencies</li>
+     <li> Growth in Automation development for Staff and Brokers</li>
+     <li> Maintenance of Automation quantities to prevent SOQL Query Limits</li>
+     <li> Data Load scripting w/ DemandTools</li>
+     <li> Lead Generation - Data Loading, Mining, and Deployment Flow </li>
+    </ul>
+   </ul>
+  </div>
+ </div>
+ <div>
+  <div>
+   <h3 class=""jobSectionHeader""><b>Qualifications:</b></h3>
+   <ul>
+    <ul>
+     <li> Salesforce/CRM Experience is required</li>
+     <li> Work Experience in Apex is required</li>
+     <li> Apto Experience is a plus</li>
+     <li> DemandTools/ETL Experience is a plus</li>
+     <li> Deduplication / Data Quality </li>
+     <li>Project Management/ Data Reporting / Visualization </li>
+     <li>GSuite, MS Excel, MS Word, Adobe Creative Suite (bonus)</li>
+     <li> Detail Oriented</li>
+     <li> Problem Solver</li>
+     <li> Good Work Ethic</li>
+     <li> Punctual and Receptive to Feedback</li>
+    </ul>
+   </ul>
+  </div>
+ </div>
+ <br> 
+ <div></div> 
+ <div>
+  <div>
+   <b> What’s So Different About NAI Northern California?</b>
+  </div>
+  <div></div>
+  <div>
+   <b><br> Collaboration</b>: We take this seriously. We believe that scarcity mentality and sales do not mix. We also believe that competition can inspire us to do great things, but collaborating with others elevates everyone. Therefore management trains advisors to realize their highest potential quickly to create a revenue source.
+  </div>
+  <div></div>
+  <div>
+   <b><br> Platform:</b> We’ve implemented world-class CRM so all outreach is transparent. And, we have great events that bring everyone together for fun, community involvement and celebration of our mad sales skills. There are leads in the system ready to go - so no need to build your own database.
+  </div>
+  <div></div>
+  <div>
+   <b><br> Support:</b> We spend time and money to support our agents at NAI. We know this is what’s necessary to get everyone successful. There are no added costs to work here and we do not nickel and dime our partners. We hire staff to assist in seeking more leads for calls, in marketing listings, and in helping complete the escrow / contract process.
+  </div>
+  <div></div>
+  <div>
+   <b><br> A Little More About Us:</b>
+  </div>
+  <div></div>
+  <div>
+   <br> NAI Northern California is the local representation of NAI Global - the largest Commercial Real Estate Brokerage Network in the world with 400+ offices worldwide and over 7,000 professionals. NAI is a global “Top 5” Commercial Real Estate Company dedicated to having the most successful, productive, and happy teams in the industry.
+  </div>
+  <div></div>
+  <div>
+   <br> The collaborative, tech-forward culture we have grown in Northern California is a major competitive advantage that will expedite your success. We have fun often and laugh easily, and yet we are at the top of our game and deliver the highest quality to our customers and clients. Take us seriously when we say our sights are focused upon gaining market share and doing what it takes to be really successful - and carving a name for ourselves in the San Francisco Bay Area.
+  </div>
+  <div></div>
+  <div>
+   <br> We’re an entrepreneurial, inclusive culture. We succeed together—when we support each other, learning together and celebrating our success.
+  </div>
+  <div></div>
+  <div>
+   <br> Competitive salary and up to 70% medical benefits package.
+  </div>
+  <div></div>
+  <div>
+   <br> 
+  </div>
+  <div>
+   <b> What Are Our People Doing &amp; Saying?</b>
+  </div>
+  <div> 
+  </div>
+  <div>
+   <i> ""Working at NAI Northern California gives you the benefit of working for a global brand, combined with the feel and culture of a Bay Area startup. Our open, transparent platform and our strong collaboration lend to one of the most unique work environments in the industry. Ultimately, I opted for NAI over the competing firms because I felt that it gave me the best chance to grow and fulfill my potential.""</i>
+  </div>
+  <div>
+   <i> – Anonymous, Senior Vice President – NAI Northern California Top Performer</i>
+  </div>
+ </div>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=88e645106d51288c&fccid=870e93617c2dfecb&vjs=3
+4,Database+administrator,San Francisco,"new post Database Architect/Administrator/App Developer
+- job post",Estimated $90.4K - $115K a year,"<p>The Applications Developer is responsible for managing all aspects of business applications that run our company. This position involves database management, custom development and third party system integration, all within the Microsoft stack both on premise and in the Cloud. Remote flexibility is available for employees within a commutable distance from some of the Nixon Peabody LLP offices listed below.</p>
+<p>A career at Nixon Peabody is the opportunity to do work that matters. It’s the chance to use your knowledge to shape what’s ahead. To share, to innovate, to learn at a firm that taps the power of collective thinking.</p>
+<p>We’ve created a dynamic, energizing environment that promotes success for our clients and each other. We offer fast growth, connectedness and training in business as well as law. And our rigorous standards assure you are part of a diverse team of top talent at every turn.</p>
+<p>If you’re someone who’s looking toward the future, we’d love to hear from you.</p>
+<p><b>Location:</b> Albany, NY; Boston, MA; Buffalo, NY; Chicago, IL; Los Angeles, CA; Manchester, NH; Melville, NY; New York City, NY; Providence, RI; Rochester, NY; San Francisco, CA; Washington, DC</p>
+<ul>
+ <li>Provide expert level database administration support across the entire SQL database platform - architecture, configuration, monitoring, maintenance, tuning – working closely with another SQL DBA.</li>
+ <li>Identify business opportunities with internal clients to apply complex technical solutions to best meet business requirements - this includes detailed analysis, design, build and implementation of complex applications programs.</li>
+ <li>Leverage advanced technical skills to conduct research and develop solutions to address specific application/business needs.</li>
+ <li>Provide technical oversight for all core business systems, including financial, time management, document management, records, conflicts, marketing, human resources and other legal-specific tools and applications.</li>
+ <li>Application monitoring and maintenance. This includes providing day-to-day support, identify issues/potential problems and responding quickly to developer escalation production issues (after hours as needed)</li>
+ <li>Maintain application security compliance and adherence to ISO270001 certifications.</li>
+ <li>Recommend and implement application upgrades when necessary to improve performance or maintain supported releases.</li>
+ <li>Populate and maintain a knowledge base (Application Inventory) including installation documentation, problem resolutions, vendor contact information, change log, and other application information.</li>
+ <li>Maintain technical proficiency and industry knowledge through technical and business-related training programs, seminars and industry events.</li>
+ <li>Contribute to team effort by participating in regularly scheduled team/project meetings.</li>
+ <li>Adherence to Firm and IT Development policies and procedures.</li>
+ <li>Perform other duties as assigned.</li>
+</ul>
+<p><i>To perform this job successfully, you must be able to perform each essential job responsibility listed above, satisfactorily, with or without reasonable accommodation. Nixon Peabody retains the right to change or assign other duties to this position. The requirements listed below are representative of the skills and abilities required.</i></p>
+<p><b>Job Requirements:</b></p>
+<ul>
+ <li>Minimum 6-8 years of IT experience, with 3-5 years of recent and relevant experience.</li>
+ <li>Bachelor of Computer Science or equivalent IT industry experience.</li>
+ <li>Microsoft certifications preferred but not required. For example, database development, web/windows development, cloud applications, etc.</li>
+ <li>Demonstrated knowledge and experience with Microsoft technologies: (SQL Server, SQL Reporting Services, SQL Stored Procedures/Functions, Power BI, SSIS Integrations, .NET, .NET Core, Visual Studio, IIS, etc.).</li>
+ <li>Software development, including object-oriented programming (Java or C#), Web HTML and CSS, Frameworks such as Bootstrap and jQuery.</li>
+ <li>Must be self-motivated and able to work independently with minimal supervision.</li>
+ <li>Strong organizational skills and a demonstrated ability to communicate on all levels.</li>
+ <li>Must have the ability to deal with a multitude of projects or problems including complex issues that require collaborative efforts between users, support engineers and vendors to ensure a timely response or resolution.</li>
+ <li>Demonstrated ability to learn and apply new technologies.</li>
+ <li>This position includes some after-hours support (upgrades, installs and production issues that arise)</li>
+</ul>
+<p><i>In accordance with applicable Federal and State laws, the anticipated annual salary range for this position, depending on location, is as follows:</i></p>
+<p><i>Los Angeles: $103,252 to $157,505; San Francisco: $107,554 to $164,068; NYC: $107,554 to $164,068; Providence: $94,647 to $144,380</i></p>
+<p><i>In addition to a standard benefits package, this role may be eligible for additional contingent compensation based on an array of factors, including but not limited to: work performance, geographic location, work experience, education, and qualifications. Because such contingent compensation is not yet calculable or may be zero ($0) in some circumstances, the above-listed salary range is Nixon Peabody’s good faith estimate of the annual salary it reasonably expects to pay for the position at the time of this posting.</i></p>
+<p><i>Nixon Peabody LLP is an Equal Opportunity / Affirmative Action Employer: Disability / Female / Gender Identity / Minority / Sexual Orientation / Veteran. Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative, we will consider for employment qualified applicants with arrest and conviction records.</i></p>
+<p><i>To comply with Federal law, Nixon Peabody participates in E-Verify. All newly-hired employees are verified through this electronic system established by the Department of Homeland Security (DHS) and the Social Security Administration (SSA) to confirm their identity and employment eligibility. Please refer to the Notice of E-Verify Participation and the Right to Work posters on the Nixon Peabody Careers page for more information.</i></p>
+<p>Job Type: Full-time</p>
+<p>Benefits:</p>
+<ul>
+ <li>401(k) matching</li>
+ <li>Health insurance</li>
+ <li>Paid time off</li>
+</ul>
+<p>Schedule:</p>
+<ul>
+ <li>Monday to Friday</li>
+</ul>
+<p>Work Location: Remote</p>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Monday to Friday</div></div></div></div></div></div><div class=""css-1oqmop4 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0"">Encouraged to apply</div><ul class=""attributeSnippet""><li>Fair chance<button aria-haspopup=""true"" aria-label=""Fair chance"" class=""css-1y6gk07 e8ju0x51""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-170aqxp eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zM11 7.25a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v1.5a.25.25 0 01-.25.25h-1.5a.25.25 0 01-.25-.25v-1.5zm0 4a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-1.5a.25.25 0 01-.25-.25v-5.5z"" clip-rule=""evenodd""></path></svg></button></li></ul></div>",-1,,,https://www.indeed.com/company/Nixon-Peabody-LLP/jobs/Application-Developer-58621ce9af762e57?fccid=d024a84676c99def&vjs=3
+5,Database+administrator,San Francisco,"new post Wellsky Database Manager
+- job post",Estimated $63.7K - $80.7K a year,"<div>
+ <p><b>OVERVIEW: </b></p>
+ <p>The WellSky Database Manager oversees and supports the Golden State Division in all aspects of the use of the WellSky Database and is responsible for data reporting for the Golden State Division.</p> 
+ <p><b> </b><b>DUTIES AND RESPONSIBILITIES:</b></p> 
+ <ul> 
+  <li>Provide support to the corps units and social services staff in all aspects of the WellSky Database, which includes creating and managing user accounts, training users, customizing the database, monitoring data quality, and creating/editing/generating reports.</li> 
+  <li>Prepare reports for the Divisional Social Services Director (DSSD) and the Divisional Secretary for Program (DSP) and provide analytics for all departments at divisional headquarters as requested.</li> 
+  <li>Support DSSD in maximizing the use of WellSky Database to track client progress and program performance outcomes.</li> 
+  <li>Assist DSSD with program monitoring reviews.</li> 
+  <li>Work with program staff in generating reports from funder databases.</li> 
+  <li>Revise guides and manuals as assigned.</li> 
+  <li>Report any challenges seen in WellSky and work with the DSSD and DSP to develop an action plan to address issues.</li> 
+  <li>Plan, conduct and/or participate in WellSky workshops and other training events at the territorial, divisional and/or local level.</li> 
+  <li>Travel to corps units and programs as needed</li> 
+  <li>Other related duties as required</li> 
+ </ul> 
+ <p><b>EDUCATION AND EXPERIENCE: </b></p>
+ <ul>
+  <li>Bachelor’s degree in Database Management or Computer Science (Required)</li> 
+  <li>Experience with client management databases and with SAP Business Objects (Required)</li> 
+  <li>Intermediate Microsoft Excel Skills</li> 
+  <li>CA Driver’s license (Required)</li> 
+ </ul> 
+ <p><b> </b><b>SKILLS AND ABILITIES:</b></p> 
+ <ul> 
+  <li>Ability to train users and conduct workshops</li> 
+  <li>Ability to think critically to support WellSky users and ensure data integrity</li> 
+  <li>Intermediate Microsoft Excel Skills</li> 
+  <li>Ability to work independently</li> 
+  <li>Excellent communication skills</li> 
+  <li>Ability to interact with people from diverse backgrounds</li> 
+ </ul> 
+ <p><b> </b><b>PHYSICAL REQUIREMENTS:</b></p> 
+ <ul> 
+  <li>Ability to lift up to 25 lbs.</li> 
+ </ul> 
+ <p><b> </b><b>EQUIPMENT USED: </b></p>
+ <ul>
+  <li>Modern Office Equipment and Relevant Software</li> 
+ </ul> 
+ <p><b>ADA Statement:</b></p> 
+ <p> Qualified individuals must be able to perform the essential duties of the position with or without accommodation. A qualified person with a disability may request a modification or adjustment to the job or work environment in order to meet the physical requirements of the position. The Salvation Army will attempt to satisfy requests if the accommodation needed is reasonable and no undue hardship would result.</p> 
+ <p><b> Acknowledgment of Religious Purposes of The Salvation Army:</b></p> 
+ <p> Please note that The Salvation Army has a religious purpose and status as a church. We ask our employees that they do nothing to their relationship with The Salvation Army to undermine its religious mission. Employees must agree and understand that their services are a necessary part of The Army’s religious purposes and their work-related conduct must not conflict with, interfere with, or undermine such religious programs or The Army’s religious purposes.</p> 
+ <p><b> At-Will:</b></p> 
+ <p> Any employment relationship with this organization is of an “at-will” nature, which means that an Employee may resign at any time and the Employer may discharge an Employee at any time with or without cause. It is further understood that this “at will” employment relationship may not be changed by any written document or by conduct unless such change is specifically acknowledged in writing by an authorized executive of this organization.</p>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=82d4e5d8ea8bee66&fccid=1478f375b56b55d4&vjs=3
+6,Database+administrator,San Francisco,"new post Sr. MSSQL DB Administrator
+- job post",Estimated $102K - $129K a year,"<p></p>
+<div>
+ <div>
+  <div>
+   <div>
+    <div>
+     <h2 class=""jobSectionHeader""><b>Project</b><b> Description</b></h2> 
+     <p></p>
+     <p>In addition to the responsibilities below, this position is responsible for leading a team of database administrators and will be the escalation point for troubleshooting complex issues in multi-tiered application environments. This position will require working directly with the systems engineering team members to help solve issues that span multiple technology tiers, storage/network/server. The person in this position will be responsible to perform various database administration activities for SQL Server 2012/2016 databases on Microsoft Server infrastructure hosted on both physical and virtual platforms.</p> 
+    </div>
+   </div>
+   <div>
+    <div>
+     <h2 class=""jobSectionHeader""><b>Responsibilities</b></h2> 
+     <p></p>
+     <ul>
+      <ul>
+       <li>SQL Server database administration, configuration, load balancing, performance tuning, backup and recovery.</li>
+       <li>Database sizing and space management, SQL and command shell programming, SQL tuning, diagnostics of SQL Server 2012, 2016, 2019.</li>
+       <li>Support deployment of updated SQL code.</li>
+       <li>Work with development teams on identifying badly performing queries.</li>
+       <li>Enhance existing monitoring tools configurations to predict system issues.</li>
+       <li>Increase uptime by enhancing and supporting HA configurations of both single site multi-site SQL instances.</li>
+       <li>Maintains working knowledge of the IT industry and vendor market to effectively address the development of database software systems and the ongoing demands for enhancements to existing systems to provide efficient services to business department and other database/application users.</li>
+       <li>Researches, evaluates, and recommends database educational material to peers and management.</li>
+       <li>Performs other job-related duties requiring the same general knowledge, skills and degree of responsibility equivalent to the assigned level.</li>
+       <li>Ability to provide on-call support during off-business hours on regular days and the weekends</li>
+       <li>Strong technical documentation skills</li>
+       <li>Highly self motivated and directed</li>
+       <li>Keen attention to detail</li>
+       <li>Proven analytical and problem-solving abilities.</li>
+       <li>Ability to effectively prioritize and execute tasks in a high-pressure environment.</li>
+       <li>Strong customer service orientation</li>
+       <li>Experience working in a team-oriented, collaborative environment </li>
+      </ul>
+     </ul>
+    </div>
+    <div>
+     <h2 class=""jobSectionHeader""><b>Skills</b></h2> 
+     <p></p>
+     <p>Must have</p> 
+     <ul>
+      <ul>
+       <li>Creation and administration of Microsoft SQL Server 2012/2016 databases on Windows platform, using automation to execute timely administration-based tasks.</li>
+       <li>Extensive experience of Always-on and Availability Groups in a multi-site environment.</li>
+       <li>Ensure appropriate jobs are scheduled to maintain nightly maintenance jobs</li>
+       <li>Document of database configuration and on-going management of configuration drifts, continuous review of existing and creation of new database processes and procedures, periodic entitlement reviews.</li>
+       <li>Upgrading and patching Microsoft SQL Server 2012/2016/2019 databases</li>
+       <li>Implementation, administration and usage of industry tools like SQL Server Management Studio, SQL Server Reporting Services, Idera SQL DM.</li>
+       <li>Knowledge of Microsoft Clustering Services and SQL Server Clusters is a plus.</li>
+       <li>Experience with disaster recovery on SQL standalone and clustered environments is a plus.</li>
+       <li>Development and implementation of database automation solutions and performing quality assurance verification of various database project implementations.</li>
+       <li>Proactive database performance monitoring and tuning, optimization of existing and creation of new database performance monitoring procedures. </li>
+      </ul>
+     </ul>
+     <p>Nice to have</p> 
+     <ul>
+      <ul>
+       <li>Eight (8) years of Microsoft SQL Enterprise experience</li>
+       <li>Five (5) years of experience in managing MSSQL clusters.</li>
+       <li>Three (3) years of combined experience using enterprise SQL monitoring tools.</li>
+       <li>Three (3) years of experience writing documentation or standard operating procedures related to database administration. </li>
+      </ul>
+     </ul>
+    </div>
+   </div>
+   <div>
+    <div>
+     <h2 class=""jobSectionHeader""><b>Languages</b></h2> 
+     <p></p>
+     <p>English: C2 Proficient</p> 
+    </div>
+    <div>
+     <h2 class=""jobSectionHeader""><b>Seniority</b></h2> 
+     <p></p>
+     <p>Senior</p> 
+    </div>
+    <div>
+     <h2 class=""jobSectionHeader""><b>Relocation package</b></h2> 
+     <p></p>
+     <p>If needed, we can help you with relocation process.</p> 
+    </div>
+   </div>
+   <div>
+    <div>
+     <p>Vacancy Specialization </p>
+     <p></p>
+     <p>Database Administration</p> 
+    </div>
+    <div>
+     <p>Ref Number</p> 
+     <p></p>
+     <p>VR-99313</p>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+<div></div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Weekends as needed</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">On call</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=a7ecc1ecb0332ead&fccid=4b841d912d46e4fd&vjs=3
+7,Database+administrator,San Francisco,"new post Oracle Applications DBA
+- job post",-1,"<div>
+ <p><i>We are not able to provide sponsorship, relocation, or remote work for this position.</i></p> 
+ <p><i> Main work location: Redwood City, CA (hybrid work schedule: at least 2 days per week on-site).</i></p>
+ <br> 
+ <p> </p>
+ <p><b>DESCRIPTION:</b></p> 
+ <p> Reporting to the Senior Technical Manager of Student &amp; HR Systems in Stanford University IT (UIT), this position provides mission critical Applications and Database administration support for Stanford University. A successful candidate should have recent and hands-on experience in the installation, upgrade, and maintenance of enterprise infrastructure Oracle environments.</p>
+ <br> 
+ <p></p> 
+ <p><b> JOB PURPOSE:</b></p> 
+ <p> Install, configure, upgrade, administer, monitor, and maintain highly available Oracle, PeopleSoft, web, application servers and databases.</p>
+ <br> 
+ <p></p> 
+ <p><b> CORE DUTIES*:</b></p> 
+ <ul> 
+  <li>Maintain, support and upgrade enterprise level relational database management systems (RDBMS) and related software. Resolve highly complex, advanced Oracle applications and database issues. </li>
+  <li>Design, develop, and maintain highly available databases and web application servers both on-premises and in the Cloud.</li> 
+  <li>Responsible for maintaining secure, scalable database design, security and performance optimization, backup and recovery strategies and implementation, as well as monitoring the overall health of the database environment.</li> 
+  <li>Responsible for daily change management and technical infrastructure maintenance and support.</li> 
+  <li>Plan and implement pro-active and reactive performance analysis, monitoring, troubleshooting, and capacity planning.</li> 
+  <li>Develop, integrate and maintain secure connectivity with third party vendors between various on-prem to cloud environments.</li> 
+  <li>Support, patch and maintain applications and database environments.</li> 
+  <li>Build, configure, secure and enhance Oracle and PeopleSoft PIA server environments.</li> 
+  <li>Install, configure and maintain highly-available and secure application environments using current web and app server technologies (load balancing and clustering methods).</li> 
+  <li>Provide on-going application patching, environment refreshes and technical support.</li> 
+  <li>Participate in performance loading testing, tuning and improving operational processes.</li> 
+ </ul> 
+ <ul>
+  <li><i>- Other duties may also be assigned</i></li>
+ </ul>
+ <br> 
+ <p></p> 
+ <div>
+  <p><b>MINIMUM REQUIREMENTS:</b></p> 
+  <p><b> Education &amp; Experience:</b></p> 
+  <p> Bachelor's degree and eight years of relevant experience or a combination of education and relevant experience.</p>
+  <br> 
+  <p> </p>
+  <p><b>Knowledge, Skills and Abilities:</b></p> 
+  <ul> 
+   <li>Hardworking, accountable, quick learner with can-do attitude and aptitude.</li> 
+   <li>Ability to work well independently and as a team member in cross-functional teams. </li>
+   <li>Must have Oracle DBA skills (Oracle 19c or higher)</li> 
+   <li>Setup and management of Oracle data guard. GC, MySQL and or MongoDB experience.</li> 
+   <li>Must have PeopleSoft 9+ DBA skills <br> </li>
+   <li>Skilled in install/setup, management of highly available application environments.</li> 
+   <li>Experienced on Middleware with Tuxedo 12c+, Apache, Tomcat and fusion middleware.</li> 
+   <li>Proven experience in Apache and Weblogic servers. SSL, PKI, keytool, etc.</li> 
+   <li>UNIX SQL scripting automation is preferred. </li>
+   <li>Demonstrated experience in support of large database applications/systems including performance analysis and tuning of high volume, transaction systems. </li>
+   <li>Cloud AWS/GCS implementation and support experience is a plus. </li>
+   <li>Desire to grow in knowledge of DEVOps, CI/CD and Cloud technologies.</li> 
+   <li>Knowledge of Linux and Windows systems platform.</li> 
+  </ul> 
+  <p><i>The expected pay range for this position is $121,000 to $160,000 per year. </i></p>
+  <p><i>Stanford University provides pay ranges representing its good faith estimate of what the university reasonably expects to pay for a position. The pay offered to a selected candidate will be determined based on factors such as (but not limited to) the scope and responsibilities of the position, the qualifications of the selected candidate, departmental budget availability, internal equity, geographic location and external market pay for comparable jobs.</i></p> 
+  <p><b> PHYSICAL REQUIREMENTS*:</b></p> 
+  <ul> 
+   <li>Constantly perform desk-based computer tasks. </li>
+   <li>Frequently sit, grasp lightly/fine manipulation.</li> 
+   <li>Occasionally stand/walk, use a telephone.</li> 
+   <li>Rarely writing by hand, lift/carry/push/pull objects that weigh up to 10 pounds.</li> 
+  </ul> 
+  <ul>
+   <li><i>- Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job.</i></li>
+  </ul>
+  <br> 
+  <p></p> 
+  <p><b> WORKING CONDITIONS:</b></p> 
+  <ul> 
+   <li>Extended and weekend hours.</li> 
+   <li>Some off hour work maybe required during work week.</li> 
+   <li>Must be available for on-call, off hour and some weekend work.</li>
+  </ul>
+  <br> 
+  <p></p> 
+  <p><b> WORK STANDARDS:</b></p> 
+  <ul> 
+   <li>Interpersonal Skills: Professional and demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.</li> 
+   <li>Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned.</li> 
+   <li>Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University's Administrative Guide, http://adminguide.stanford.edu.</li>
+  </ul>
+  <br> 
+  <p></p> 
+  <p><i> The job duties listed are typical examples of work performed by positions in this job classification and are not designed to contain or be interpreted as a comprehensive inventory of all duties, tasks, and responsibilities. Specific duties and responsibilities may vary depending on department or program needs without changing the general nature and scope of the job or level of responsibility. Employees may also perform other duties as assigned.</i></p> 
+  <p><i> Stanford is an equal opportunity employer and all qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other characteristic protected</i></p>
+ </div>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$121,000 - $160,000 a year</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Extended hours</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Weekends as needed</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">On call</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=35adf4462802b698&fccid=1ba7f338730ce720&vjs=3
+8,Database+administrator,San Francisco,"new post Senior Software Engineer (Oracle Development DBA)
+- job post",-1,"<div>
+ <div>
+  <div>
+   <b>The Position</b>
+  </div> 
+  <div>
+   <p>East Bay Municipal Utility District (EBMUD) invites qualified applicants to apply for an immediate Senior Software Engineer (Oracle Development DBA) vacancy in the Applications division of the Information Systems Department (ISD). EBMUD is seeking a motivated professional with intermediate experience in Oracle Database Administration (DBA) and structured query language (SQL). This position also includes architecting Oracle database-related integrations and management of application servers.</p>
+   <p> This is not a remote work only position and is based at EBMUD’s Administration Building located in downtown Oakland, CA. The current long-term telecommute guidelines require ISD employees to telecommute three days per week and work from the office two days per week.</p>
+   <p> The successful candidate will demonstrate:</p>
+   <ul>
+    <li>the ability to write intermediate level SQL queries.</li>
+    <li>familiarity with PL/SQL.</li>
+    <li>intermediate knowledge of Oracle relational database concepts.</li>
+    <li>the ability to provide Oracle database support to application programmers.</li>
+    <li>the ability to tune SQL statements.</li>
+    <li>strong technical aptitude to learn, evaluate, apply, and master new technologies.</li>
+    <li>intermediate ability to script and automate processes using appropriate tools.</li>
+    <li>a versatile skillset to design solutions and solve problems at different levels of the technology stack.</li>
+    <li>excellent interpersonal skills and ability to work both individually and collaboratively.</li>
+    <li>good communication skills, both verbal and written.</li>
+   </ul>
+   <p> The Senior Software Engineer monthly salary range starts at $11,679, increasing to $12,263, $12,876, $13,520, and $14,196 after 6, 18, 30, and 42 months, respectively.</p>
+   <p> EBMUD is an Equal Opportunity Employer. All qualified candidates will receive consideration for employment without regard to race, color, religion, creed, sex, gender, gender identity (including transgender status), gender expression, marital or registered domestic partnership status, age for individuals age forty or older, national origin, ancestry, disability (mental or physical), medical condition (cancer and genetic characteristics), genetic information, sexual orientation, military and veterans status, family or medical leave status, pregnancy (including childbirth, lactation or related medical condition), pregnancy disability leave status, domestic violence victim status, political affiliation, and other categories protected by federal, state and/or local laws.</p>
+  </div> 
+  <div>
+   <b>Requirements</b>
+  </div> 
+  <div>
+   <p>1. A bachelor's degree from an accredited college or university (related majors such as computer science, information systems, and information technology are preferred).</p>
+   <p> 2. Three years of systems analysis and programming experience developing business applications for computer systems including one year at a level comparable to or higher than the EBMUD class of Software Engineer II. Experience may require demonstrated use and expertise in specific programming languages or IT specialties relevant to the position vacancy.</p>
+   <p> Due to the competitive nature of the review, it is very important to fill out the EBMUD application and supplement completely and accurately as only candidates passing the competitive application review will continue in the selection process. Therefore, you should describe your work experience clearly, thoroughly, and accurately. Be sure to include your employer's name and the time period of the experience you are describing. Be specific and succinct. It is your responsibility to describe your work experience, including specific details of assignments you have personally performed, which are relevant to the position.</p>
+   <p> Please note: EBMUD requires all employees to provide written proof of vaccination. Those employees with sincerely held religious beliefs or valid medical reasons, as determined by EBMUD, will be exempt from vaccination requirements. Contact EBMUD Human Resources, Employee Services Division, at (510) 287-0764 for additional questions.</p>
+   <p> </p>
+   <p>Equivalent combinations of education and experience may be considered. To be considered under the “equivalent combination of education and experience” provision, it is your responsibility to include in your application materials written evidence of employment performed at the level of the typical duties of this position and/or coursework in subject areas directly related to this position. For more information, see our FAQ page at http://www.ebmud.com/jobs/job-resources/job-faqs-frequently-asked-questions/.</p>
+  </div> 
+  <div>
+   <b>The Selection Process</b>
+  </div> 
+  <div>
+   <p>1. This is an open-continuous recruitment. Submit a completed EBMUD application and the required supplemental questions responses online at www.ebmud.com by the following cut-off dates: Friday, July 7, 2023, Friday, August 4, 2023, Friday, September 8, 2023 and Friday, October 6, 2023. Only application materials submitted online during the filing period will be accepted.</p>
+   <p> 2. Candidates must achieve a passing score on each test part in order to advance to the next step in the selection process.</p>
+   <p> 3. All qualified applications and supplemental responses will be competitively evaluated. Those candidates receiving a passing score will be invited to take a technical test. The technical test will be scheduled monthly on an as-needed basis. </p>
+   <p>4. Candidates who pass the technical test will be invited to a panel interview on a date to be determined. Successful candidates will be placed on the hiring list, based on rank, for further consideration to fill the current regular vacancy, as well as others occurring over the next 12 to 24 months.</p>
+   <p> 5. The probation period for this position is 12 months. For those holding civil service status the probation period is 6 months.</p>
+   <p> 6. All employment offers are conditional, pending the results of a Live Scan background screening. All selected finalists must participate in the Live Scan background screening process to remain in consideration for EBMUD employment.</p>
+  </div> 
+  <div>
+   <b>Supplemental Information</b>
+  </div> 
+  <div>
+   <p>The Evaluation of Training and Experience is the first stage of the selection process. Your responses to these supplemental application questions and your regular EBMUD application will be evaluated on a competitive basis and only candidates passing the competitive application review will continue in the selection process. Due to the competitive nature of the review, it is very important to describe your work experience clearly, thoroughly, and accurately. Be sure to include your employer's name and the time period of the experience you are describing. Be specific and succinct. Your responses should demonstrate your ability to write concise and well-organized documents using correct grammar, spelling, and punctuation. It is your responsibility to describe your work experience, including specific details of assignments you have personally performed, which are relevant to the position. Should you respond with comments such as ""see application"" or ""see résumé"" instead of addressing the questions directly, your application may not be considered.</p>
+  </div>
+ </div>
+</div>
+<p></p> 
+<br>
+<p></p>
+<div>
+ <div>
+  <div>
+   <div>
+    Our excellent benefits package includes:
+   </div>
+   <ul> 
+    <li>12 days paid vacation; 16 holidays; 13 days paid sick leave; </li>
+    <li>Family health insurance (choice of Kaiser fully paid or Sutter Health Plus or Anthem Blue Cross 85% paid);</li>
+    <li> Fully paid family dental and vision care plans; life insurance; long-term disability insurance; </li>
+    <li>EBMUD Retirement Plan (reciprocal with CalPERS); </li>
+    <li>$1,000/yr. contributed to flexible spending account or cash; </li>
+    <li>$145/mo. public transit subsidy; </li>
+    <li>401(k), 401(a) and 457(b) tax-deferred retirement plans; Roth 401(k); </li>
+    <li>$3,500/yr. tuition reimbursement; </li>
+    <li>And opportunities for professional growth including training and career development.</li>
+   </ul>
+  </div>
+ </div>
+</div>
+<p></p>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$140,148 - $170,352 a year</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=76d7086a0f6d4f69&fccid=61df31dc91490d65&vjs=3
+9,Database+administrator,San Francisco,"new post Senior Cloud Support Engineer - Database Security and Authentication Management
+- job post",Estimated $98.7K - $125K a year,"<div>
+ <div>
+  <div>
+   <p>Build the future of data. Join the Snowflake team.</p>
+  </div>
+  <p><b> About Snowflake</b></p> 
+  <p> There is only one Data Cloud. Snowflake’s founders started from scratch and designed a data platform built for the cloud that is effective, affordable, and accessible to all data users. But it didn’t stop there. They engineered Snowflake to power the Data Cloud, where thousands of organizations unlock the value of their data with near-unlimited scale, concurrency, and performance. This is our vision: a world with endless insights to tackle the challenges and opportunities of today and reveal the possibilities of tomorrow.</p> 
+  <p> Snowflake Support is committed to providing high-quality resolutions to help deliver data-driven business insights and results. We are a team of subject matter experts collectively working toward our customers’ success. We form partnerships with customers by listening, learning, and building connections.</p> 
+  <p> Snowflake’s values are key to our approach and success in delivering world-class Support. Putting customers first, acting with integrity, owning initiative and accountability, and getting it done are Snowflake core values and are reflected in everything we do.</p> 
+  <p> Snowflake’s Support team is expanding! We are looking for a <b>Senior Cloud Support Engineer</b> who likes working with data and solving a wide variety of issues utilizing their technical experience having worked on a variety of operating systems, database technologies, big data, data integration, connectors, and networking.As a<b> Senior Cloud Support Engineer - Database Security and Authentication Management</b>, your role is to delight our customers with your passion and knowledge of the Snowflake Cloud Data Platform. Customers will look to you for technical guidance and for advice in addressing their product usage and issue needs. You will be the voice of the customer into Snowflake’s product and engineering teams for product feedback and improvements. You will play an integral role in building knowledge within the team and be part of strategic initiatives for organizational and process improvements. Ideally, you have worked in a 24x7 environment, handled all tiers of support issues, been on-call during weekends, and are familiar with Salesforce Service Cloud.</p> 
+  <p><b> Based on business needs, you may be assigned to work with one or more Snowflake Priority Support customers. </b>You will develop a strong understanding of the customer’s use case and how they leverage the Snowflake platform. You will deliver exceptional service, enabling them to achieve the highest levels of continuity and performance from their Snowflake implementation.</p> 
+  <p><b> You will:</b></p> 
+  <ul> 
+   <li>Provide email, web, and phone support to Snowflake customers and partners</li> 
+   <li>Utilize Snowflake environment, connectors, 3rd party partner software, and tools to investigate issues</li> 
+  </ul>
+  <ul>
+   <li>Document known solutions to internal and external knowledge base</li> 
+   <li>Submit well-documented bugs and feature requests arising from customer submitted requests</li> 
+   <li>Work on technical and non-technical projects</li> 
+   <li>Partner with engineering teams in prioritizing and resolving customer requests</li> 
+   <li>Work with engineering and dev ops with regards to service alerts and notifications</li> 
+   <li>Provide support coverage during holidays and weekends based on business needs</li> 
+  </ul> 
+  <p><b>Our ideal Senior Cloud Support Engineer - Database Security and Authentication Management will have:</b></p> 
+  <ul> 
+   <li>Bachelor's or Master's degree in Computer Science or equivalent discipline</li> 
+   <li>5+ years experience in a Technical Support environment or a similar technical function in a customer-facing role</li> 
+   <li>Good understanding of the technical fundamentals of Information Security</li> 
+   <li>Experience working with web security, networking technologies, and protocols such as TCP/IP, HTTP/HTTPS, DNS, load balancers, proxies, and firewalls</li> 
+   <li>Experience writing, troubleshooting, and debugging SQL queries</li> 
+   <li>Good understanding of public cloud providers like AWS, Azure, and GCP</li> 
+  </ul>
+  <ul>
+   <li>Excellent writing and communication skills in English with an attention to detail</li> 
+   <li>Strong teaming skills in a highly collaborative environment and the ability to function in global arenas</li> 
+   <li>Ability to troubleshoot a variety of operating systems like Windows, Mac, *Nix and database connectivity issues using a variety of diagnostic tools and methods (client software, drivers/connector, etc)</li> 
+  </ul>
+  <ul>
+   <li>Scripting/coding experience In any of the following: Python, Java, .Net, NodeJS, R</li> 
+   <li>Experience in a number of the following</li> 
+   <ul>
+    <li>IAM Role-Based Access Controls (RBAC)</li> 
+    <li>Cloud authentication/access policies</li> 
+    <li>Public Key Infrastructure (PKI), X.509 certificates, SSL/TLS</li> 
+    <li>AWS Key Management Service, MSFT Key Vault, GCP KMS</li> 
+    <li>SCIM provisioning and Rest API Calls (e.g. Post, Get, Patch, etc.)</li> 
+    <li>Identity provider experience (Okta, PingFederate, OneLogin, ADFS, Azure AD, etc.)</li> 
+    <li>AWS PrivateLink, Azure Private Link, GCP private access</li> 
+   </ul> 
+  </ul>
+  <p><b>Nice to haves:</b></p> 
+  <ul> 
+   <li>Understanding of cloud computing concepts deploying IAM systems and modules in production environments</li> 
+   <li>Experience in troubleshooting platforms that support marketplace functions</li> 
+   <li>Experience in troubleshooting front-end UI applications</li> 
+   <li>Experience with IT security, cyber security, critical infrastructure and enterprise risk</li> 
+   <li>Understanding of Data Warehouse fundamentals and concepts</li> 
+   <li>Understanding broader cloud security technologies such as endpoint security, NextGen FW, SIEM, WAF, and more.</li> 
+   <li>Experience with data governance - tokenization and encryption</li> 
+   <li>Experience in a designated customer-focused enterprise support role for a large number of customers</li> 
+   <li>Security-related certifications such as AWS Certified Security - Speciality, CISM, CISSP, CSSP, CCSK, Security+</li> 
+  </ul> 
+  <p>Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p> 
+  <p> How do you want to make your impact?</p>
+ </div>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Weekends as needed</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">On call</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=506540870daa85d1&fccid=de6a7f640562b0c1&vjs=3
+10,Database+administrator,San Francisco,"new post Database Technician
+- job post",-1,"<div>
+ <p><b>DATABASE TECHNICIAN</b></p> 
+ <p><b>Disability Resource Program (DRP)</b></p> 
+ <p><b>Classification: </b><b>Class 2206 / Non-Exempt / Full-Time / Benefited / Represented / Contract</b></p> 
+ <p><b>Anticipated Hiring Range</b><b>: $30.00 - $32.78/hour</b></p> 
+ <p><b>THE DEPARTMENT</b></p> 
+ <p>The mission of the Disability Resource Program (DRP) is to ensure that all students with documented disabilities at UC Hastings Law receive comprehensive disability-related services in the form of accommodations, academic adjustments, and auxiliary services. Consistent with the </p>
+ <p>Americans with Disabilities Act (as amended in 2008), Section 504 of the Rehabilitation Act, and related state laws, DRP supports the College in its efforts to provide equal access to all its programs and activities. </p>
+ <p>DRP offers workshops and consultations to the faculty, administration, the Office of Academic Skills Instruction and Support, the Legal Educational Opportunity Program, the Legal Research and Writing department, the Career Development Office, Student Services, Media Services, Information Technology, the Registrar's Office, Faculty Support, Enrollment Services, and the Tower housing management on such topics as Universal Design for Learning, disability law in higher education, access technology, and executive functioning and cognitive diversity. We work cross-departmentally to ensure that Hastings remains an inclusive and accessible institutions for qualified students with disabilities, consistent not only with federal and state laws but with our own mission and values.</p> 
+ <p><b>THE ROLE and RESPONSIBILITIES</b></p> 
+ <p>DRP seeks a Database Technician to provide technical support in the efficient use of technology solutions within the department. Primary duties and responsibilities, all within the department of DRP, consist of, but are not limited to, the following:</p> 
+ <ul>
+  <li>Serve as the lead on software and data management systems, such as Colleague Ellucian and other higher education technology systems on behalf of DRP. This includes technical knowledge and efficient use of such systems, accurate maintenance of student and departmental records, support for the implementation of new systems, assisting in the analysis of data, liaising and collaborating with other departments, training DRP staff and others as necessary; </li>
+  <li>Serve as the lead on website design and content updates;</li>
+  <li> Serve as the lead on electronic communications, e.g., communicating awareness of DRP, disability-related facts/info/awareness, student accomplishments, outcomes;</li>
+  <li> Create and implement online forms and intake systems, using Qualtrics or other survey software;</li>
+  <li> Assess and update current use of assistive technology systems;</li>
+  <li> Evaluate department's tech programs for efficiency and recommend opportunities to enhance systems;</li>
+  <li> Perform other duties as assigned to ensure smooth operation of the DRP Office and compliance with requirements of such an office in higher education;</li>
+  <li> Implement effective data management systems to maintain DRP records and files, consistent with FERBA and other industry-standards of confidentiality; </li>
+  <li>Other technical and administrative duties as assigned.</li>
+ </ul>
+ <p><b> REQUIREMENTS</b><br> <b>EDUCATION AND EXPERIENCE</b></p> 
+ <ul>
+  <li>Bachelor's degree and two years of complex technical, IT, database, or systems administration experience, preferably in education or a legal environment. Three years of experience can substitute for the education requirement. </li>
+  <li>Experience in a disability services-related environment preferred.</li>
+ </ul>
+ <p><b> DESIRED KNOWLEDGE, SKILLS &amp; ABILITIES</b></p> 
+ <ul>
+  <li>Strong background in the effective use of technology, and the application of complex student information systems (and complex database info); solid database management/data query experience, preferably with Ellucian Colleague and Entrinsik Informer or other reporting software.</li>
+  <li> Demonstrated analytical skills to interpret data, identify trends, and anticipate impacts of technology platforms/programs on dept's objectives and practices; </li>
+  <li>Have excellent organizational and project management skills with attention to detail</li>
+  <li> High proficiency / knowledge of MS Office Excel, Word, Mail Merges, </li>
+  <li>Interpersonal and communication skills to listen and interact effectively with diverse constituents; to communicate technical and administrative information in verbal presentations, as well as written documents and reports.</li>
+  <li> Experience working collaboratively with multi-disciplined groups in achieving organizational objectives.</li>
+  <li> Knowledge of ADA (ADAAA) / disability accommodations / regulations, national trends and best practices, FERPA requirements.</li>
+  <li> Ability to effectively train others on database platforms</li>
+  <li> Ability to take initiative, prioritize with minimal supervision and work independently, as well as being able to contribute as a member of a team</li>
+  <li> Excellent customer service skills and sensitivity</li>
+  <li> Ability to lift / move / transport 20 lbs.</li>
+ </ul>
+ <p><b> BENEFITS </b></p>
+ <p><b>Health and Welfare Benefits</b></p> 
+ <ul>
+  <li>Comprehensive medical, dental and vision insurance coverage</li>
+  <li> Flexible Spending Accounts for transportation-related, healthcare and dependent care expenses</li>
+  <li> Employee Assistance Program</li>
+ </ul> 
+ <p><b>For Your Financial Future</b></p> 
+ <ul>
+  <li>Life Insurance, Disability Insurance, and Legal Insurance</li>
+  <li> University of California Retirement Plan (a defined benefit plan)</li>
+  <li> Deferred Compensation Plans/Pre-tax Retirement Savings Programs</li>
+ </ul> 
+ <p><b>For Your Work/Life Balance</b></p> 
+ <ul>
+  <li>Fifteen paid holidays per year</li>
+  <li> Generous vacation and sick leave </li>
+  <li>Commuter Benefits Program</li>
+ </ul>
+ <p><b> THE HIRING PROCESS</b></p> 
+ <p><b>This position has been designated as “sensitive” and requires a pre-employment background check.</b></p>
+ <br> 
+ <p><b>This a 1-year contract position. </b></p>
+ <p><i>Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please contact Human Resources if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodation include making a change to the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. </i></p>
+ <p><b>WHAT TO EXPECT</b></p> 
+ <p>Applicants who meet the position requirements will be competitively evaluated to identify the individuals whose breadth and depth of experience and education most closely relate to the stated requirements and the needs of the College. Depending on the quality and number of the applications received, only the better qualified applicants may be contacted for an interview. <b>The position is open until filled. </b></p>
+ <p>The skills listed above are comprehensive, and we understand there are great candidates who possess only a subset of those skills, or who have other important skills. If you match some of these skills, please do not hesitate to apply.</p> 
+ <p><i>UC Law SF is an equal opportunity employer. UC Law SF strives to provide a diverse and inclusive educational environment that fosters cultural awareness, mutual understanding and respect. UC Law SF is interested in candidates who will contribute to diversity and equal opportunity in higher education through their teaching. Qualified women and members of underrepresented minority groups are strongly encouraged to apply.</i></p>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$30.00 - $32.78 an hour</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Contract</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=ab27c2b3c1d1a298&fccid=dd616958bd9ddc12&vjs=3
+11,Database+administrator,San Francisco,"new post Database Administrator (MySQL, Postgres)
+- job post",Estimated $91.6K - $116K a year,"<div>
+ <p>IXL Learning, a leading edtech company with products used by over 14 million students worldwide, is currently looking for a self-motivated MySQL and/or Postgres Database Administrator to join our team. In this role, you'll be working with our Systems and Database team to improve our existing database infrastructure. You will join a team focused on our database's reliability and performance. The ideal candidate should love experimenting with new technologies, enjoy being part of a team, and be unintimidated by juggling multiple projects.</p> 
+ <p><b> This is a full time position with a hybrid schedule of 3+ days per week in our San Mateo, CA office.</b></p> 
+ <h4 class=""jobSectionHeader""><b> WHAT YOU'LL BE DOING</b></h4> 
+ <ul>
+  <li>Administration of PostgreSQL, MySQL and MongoDB databases throughout the development and production lifecycles</li> 
+  <li>Develop and maintain processes for optimizing database security and standards</li> 
+  <li>Manage backup, replication, and disaster recovery functions for the database environments</li> 
+  <li>Monitors performance issues on all production and non-production databases (as applicable) implementing performance monitoring and trending on all production and applicable non-production databases</li> 
+  <li>Assist development groups in optimizing SQL statements in applications, batch jobs, and reports and in designing and using databases and database applications and processes for maximum performance, security, reliability, and availability.</li> 
+  <li>Participate in capacity planning as it relates to production databases</li> 
+  <li>Cross-training in NoSQL database administration (Cassandra and MongoDB)</li> 
+  <li>Automate repeated database tasks</li> 
+ </ul>
+ <h4 class=""jobSectionHeader""><b>WHAT WE'RE LOOKING FOR</b></h4> 
+ <ul>
+  <li>BS in Computer Science or IT related field</li> 
+  <li>4+ years of IT experience</li> 
+  <li>3+ years PostgreSQL Database Administrator (working with PostgreSQL v11.0 and above)</li> 
+  <li>In-depth knowledge of PostgreSQL Architecture</li> 
+  <li>Working knowledge of Patroni HA Cluster</li> 
+  <li>Working knowledge of Amazon RDS (Postgres, MySQL, and Aurora)</li> 
+  <li>Strong knowledge of Linux and shell scripting</li> 
+  <li>3+ years of experience in any other database administration is a plus</li> 
+  <li>Strong communication and interaction skills</li> 
+  <li>Eagerness to learn</li> 
+ </ul> 
+ <p><i>Our salary ranges are determined by role, level, and location. The base salary range for this full-time position is $110,000 to $150,000 + benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position. Individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.</i></p> 
+ <p> #li-hybrid</p>
+ <div>
+  <h4 class=""jobSectionHeader""> ABOUT IXL LEARNING</h4> 
+  <p> IXL Learning is the country's largest edtech company. We reach millions of learners through our diverse range of products. For example:</p> 
+  <ul> 
+   <li>1 in 4 students in the United States uses IXL.com</li> 
+   <li>Rosetta Stone provides an immersive learning experience for 25 languages</li> 
+   <li>Wyzant is the nation's largest community of tutors, covering 300+ subjects</li> 
+   <li>Teachers Pay Teachers (TPT) is a comprehensive marketplace for millions of educator-created resources</li> 
+  </ul> 
+  <p>Our mission is to create innovative products that will make a real, positive difference for learners and educators and we're looking for passionate, mission-minded people to join us in achieving this goal. We have a unique culture at IXL that fosters collaboration and the open exchange of ideas. We value our team and treat one another with kindness and respect. We approach our work with passion, tenacity, and authenticity. We find it immensely satisfying to develop products that impact the lives of millions and we are eager to have you join our team.</p> 
+  <h5 class=""jobSectionHeader""><i> At IXL, we value diversity in age, race, ethnicity, gender, sexual orientation, physical and mental ability, political and religious beliefs, and life experience, and we are proud to promote a work environment where everyone, from any background, can do their best work. IXL Learning is an Equal Opportunity Employer.</i></h5>
+ </div>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=b4353c59b7216c9b&fccid=94036c5004c09ecc&vjs=3
+12,Database+administrator,San Francisco,"new post Development Database Coordinator
+- job post",-1,"<div>
+ <p><b>Reports to:</b> Director, Office of Mission Advancement</p>
+ <p><b> Supervisory Responsibility: </b>N/A</p>
+ <p><b> About Catholic Charities of the East Bay:</b></p>
+ <p> Catholic Charities East Bay is a nationally accredited non-profit social services agency. Since 1935, we have provided innovative solutions to help people who struggle with poverty and other complex issues. We offer immigration legal services, housing assistance, Mental Health Services, Violence Prevention, and more.</p>
+ <p><b> Summary:</b></p>
+ <p> The Development Database Coordinator is responsible for consistently monitoring and producing data reports in the donor and gift database, Raiser’s Edge; auditing the data structure, use, and input from various sources and programs.</p>
+ <p> The ideal candidate must have a high-level attention to detail and database logic. Candidates must be flexible and comfortable working in a team environment.</p>
+ <p><b> Responsibilities:</b></p>
+ <p> All responsibilities will comply with Council on Accreditation (COA) standards including:</p>
+ <p> Essential Responsibilities</p>
+ <ul>
+  <li><p> Maintain overall quality and integrity of the Raisers Edge database, including working with Raisers Edge support staff to troubleshoot problems with the database and staying current with updates to the system.</p></li>
+  <li><p> Maintain highly accurate and current donor data that effectively tracks key information, cultivation activities and histories, and solicitation and reporting calendars.</p></li>
+  <li><p> Monitor all gift input in Raiser’s Edge to ensure proper gift coding.</p></li>
+  <li><p> Monitor all new record creation after direct mail acquisition campaigns.</p></li>
+  <li><p> Produce segmented donor reports.</p></li>
+ </ul>
+ <ul>
+  <li><p> Perform data cleanup projects.</p></li>
+  <li><p> Monitor Raiser’s Edge structure and procedures.</p></li>
+  <li><p> Oversee and maintain relationship and information flow between multiple software programs to ensure maximum usage and record keeping.</p></li>
+ </ul>
+ <ul>
+  <li><p> Learn and become proficient in all department software: Raiser’s Edge, SalesForce, MS Office.</p></li>
+  <li><p> Keep up to date with all fundraising initiatives to ensure proper structure, input and analysis reporting.</p></li>
+  <li><p> Maintain highly accurate and current donor data that effectively tracks key information, cultivation activities and histories, and solicitation and reporting calendars</p></li>
+  <li><p> Work with the Director, Office of Mission Advancement to establish and maintain best practices and procedures.</p></li>
+  <li><p> Prepare monthly and quarterly revenue reports, weekly report recaps, and reports for the Development Committee and Board of Directors.</p></li>
+  <li><p> Reconcile gifts with the Finance Department.</p></li>
+  <li><p> Respond to requests from other Development and executive staff for updates to the database and fundraising reports.</p></li>
+  <li><p> Create and generate various financial and dashboard reports for the Development Department, as well as other staff.</p></li>
+  <li><p> Generate various mailing lists for the Development Department and other staff.</p></li>
+  <li><p> Generate timely acknowledgment letters to donors (within 48 hours of receipt of gift)</p></li>
+  <li><p> Establish and codify database best practices.</p></li>
+  <li><p> Work effectively as a member of multiple project teams.</p></li>
+  <li><p> Follow a strict code of confidentiality.</p></li>
+ </ul>
+ <p><b> Why work @ Catholic Charities of East Bay?</b></p>
+ <p> Our Mission is to support children, youth, families, and seniors from crisis to stability to well-being. We were the first to provide hospice care to those with HIV-AIDS in the 90’s and continue to make an impact focusing on social justice and advocacy. We help families avoid homelessness, provide support to those facing trauma, work with youth harmed by violence and help people navigate immigration issues. We are making a real impact (over 22k people received support from Catholic Charities in 2021!) in people’s everyday lives and everyone is welcome here.</p>
+ <p> Catholic Charities values our employees, and it is important that everyone who joins us is true to our values. We respect each other by showing empathy, we create an environment of support and collaboration leading to trust, we strive for excellence by setting high standards across the company, we hold everyone accountable for set goals and work performed, and most importantly we welcome all and serve everyone as a faith-based agency.</p>
+ <p><b> Benefit Status:</b> Eligible</p>
+ <p><b> Benefits</b>:</p>
+ <p> We walk the walk when it comes to work-life balance, including industry beating time off, work flexibility, and other benefits!</p>
+ <ul>
+  <li><p> 18 Paid Holidays</p></li>
+  <li><p> 35 Hour Work Week</p></li>
+ </ul>
+ <ul>
+  <li><p> Summer Friday’s (workday ends at 2pm!)</p></li>
+  <li><p> 15 Days paid vacation for first year of employment (20 days after 2 years)</p></li>
+  <li><p> Generous leave policy, including paid sick leave, personal leave and FMLA benefits</p></li>
+  <li><p> Life insurance plans, including Group Life, Short term/long term and AD&amp;D</p></li>
+  <li><p> Medical (Kaiser or BlueShield), dental (Delta), vision (VSP)</p></li>
+ </ul>
+ <ul>
+  <li><p> Flex Spending Account</p></li>
+  <li><p> Employee Assistance Programs that include Emotional Support, Legal Guidance, Financial Resources, Will Preparations, Parent Guidance and Work Life Solutions</p></li>
+  <li><p> 403(b) Retirement Plans (Employer Matching available after 1 year of service for full-time employees or 1000 hours of service for part-time employees)</p></li>
+  <li><p> Legal and ID Theft Protection</p></li>
+  <li><p> Pre-tax commuter benefits</p></li>
+ </ul>
+ <p><b> Qualifications:</b></p>
+ <p><b> Education &amp; Experience:</b></p>
+ <ul>
+  <li><p> Bachelor’s Degree (required).</p></li>
+ </ul>
+ <ul>
+  <li><p> Knowledge of and experience in Raiser’s Edge 7 (preferred) and Microsoft Office (required).</p></li>
+  <li><p> Flexible and willing to acquire new or shift responsibilities.</p></li>
+ </ul>
+ <p><b> Knowledge, Skills &amp; Abilities:</b></p>
+ <ul>
+  <li><p> Excellent communication and excellent customer service skills.</p></li>
+ </ul>
+ <ul>
+  <li><p> Possess a high level of organizational skills and ability to multi-task.</p></li>
+ </ul>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$60,000 - $70,000 a year</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=96a47e256ba29661&fccid=dd616958bd9ddc12&vjs=3
+13,Database+administrator,San Francisco,"new post Database Administrator Analyst
+- job post",-1,"<div>
+ <p><b>The Position:</b></p>
+ <div>
+   The Database Administrator Analyst will administer, maintain and provide ongoing support for the CEI applications environment. This position will collaborate with the enterprise applications and business intelligence teams to optimize and support application and intelligence operations.
+  <br> 
+  <br> 
+  <b>The salary range for the DB Admin position at Center For Elders Independence is $ 87,667 to</b>
+  <br> 
+  <b>$ 131,500 Wages/salary are based on the market for the DB Admin position, as well as experience, skills, abilities and work history</b>
+ </div>
+ <div></div>
+ <p><b><br> Duties and Responsibilities:</b></p>
+ <ul>
+  <li> Provide application development support, including database analysis and design data model changes, data export and import, data load and conversion and old data restoration, and SQL tuning.</li>
+  <li> Conduct routine database maintenance and upgrades, as well as ad hoc disaster recovery.</li>
+  <li> Maintaining and administering current and future versions of Database Management Systems including MS SQL systems and other relational databases.</li>
+  <li> Schedule and perform database server updates and backups using server management tools or back up software; configure and monitor database replication, database mirroring and log shipping on database servers at local and remote sites.</li>
+  <li> Analyze database server performance and resource usage and make recommendations or implement other mechanisms that will improve performance, reliability, security, and availability.</li>
+  <li> Utilize SQL-based tools to build queries, stored procedures, views, and other functions to enable users to sort data and generate reports in both electronic and printed formats.</li>
+  <li> Design, build, maintain and publish data connections using products such as Microsoft Reporting Builder, Crystal Reports and Dimensional Insight.</li>
+  <li> Review technical designs, reports, documentation, manuals, help files and instructions, and other materials produced by staff.</li>
+  <li> Perform other related duties as assigned</li>
+ </ul>
+ <p><b> Requirements</b><b>:</b></p>
+ <ul>
+  <li> Client/Server, relational database, data warehouse, and portal technologies. MS SQL Server 2012 with SSRS or later. </li>
+  <li>Transact-SQL language, maintenance plans, stored procedures, triggers, user-defined functions, and views.</li>
+  <li> Ability to analytically and logically evaluate complex technical information, issues, or problems to generate solutions.</li>
+  <li> Database security including access control, backup, and recovery techniques.</li>
+  <li> Practices effective communication of technical issues to user and client community.</li>
+  <li> Can easily adapt to changing technologies and job responsibilities.</li>
+  <li> Prepare clear, complete, and accurate reports.</li>
+  <li> Expert in creating, modifying, troubleshooting, and maintaining PowerShell automation scripts.</li>
+  <li> Experience with Data warehouse and ETL processing.</li>
+ </ul>
+ <p><b> Your Education and Experience</b> </p>
+ <p>A Bachelor’s Degree in computer science, information systems or a closely related field and two (2) years’ experience in the fields of systems analysis, systems engineering, programming, database administration and/or analysis, operating systems, network analysis and/or management or similar field in a multi-platform information systems environment; OR</p>
+ <p> An Associate’s Degree in computer science, information systems or a closely related field and four (4) years’ experience in the fields of systems analysis, systems engineering, programming, database administration and/or analysis, operating systems, network analysis and/or management or similar field in a multi-platform information systems environment;</p>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$87,667 - $131,500 a year</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=c32448f4dcfacb8e&fccid=130d644d8a6dea1c&vjs=3
+14,Database+administrator,San Francisco,"new post PCMS Database Administrator
+- job post",-1,"<p><b>Contract: Long Term </b></p>
+<p><b>Location: Benicia, CA (on-site)</b></p>
+<p><b>Schedule: 5x8 </b></p>
+<p><b>Benefits: Yes </b></p>
+<p>Job description:</p>
+<ul>
+ <li>Administers the database, affecting changes/updates or other technical function necessary to ensure operation of the database.</li>
+ <li>Routinely runs reportage using reporting tools, including SQL and BI based programs.</li>
+ <li>Reports Metrics/KPIs routinely and generate reportage for these when requested.</li>
+ <li>Routinely audits data as specified by Chief Inspector/Reliability Manager.</li>
+ <li>Performs and/or stewards the performance of data entry activities.</li>
+</ul>
+<p>Experience/Qualifications:</p>
+<ul>
+ <li>At least 5 years’ experience working as an IDMS database administrator or at least 2 years of experience working specifically with PCMS as a database administrator.</li>
+ <li>Experience utilizing reporting/BI tools to query data/generate reportage for certain metrics/KPIs/Information from database system backend.</li>
+ <li>Experience inputting equipment design data and inspection data at different levels of the database.</li>
+ <li>Experienced API inspector preferred.</li>
+ <li>Experience working within an RBI program at a petrochemical facility is a plus.</li>
+</ul>
+<p>Job Types: Full-time, Contract</p>
+<p>Pay: $40.00 - $55.00 per hour</p>
+<p>Benefits:</p>
+<ul>
+ <li>401(k)</li>
+ <li>Dental insurance</li>
+ <li>Health insurance</li>
+ <li>Vision insurance</li>
+</ul>
+<p>Schedule:</p>
+<ul>
+ <li>8 hour shift</li>
+</ul>
+<p>Ability to commute/relocate:</p>
+<ul>
+ <li>Benicia, CA: Reliably commute or planning to relocate before starting work (Required)</li>
+</ul>
+<p>Work Location: In person</p>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$40 - $55 an hour</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Contract</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">8 hour shift</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">5x8</div></div></div></div></div></div>",-1,,,https://www.indeed.com/company/NES-Fircroft/jobs/Database-Administrator-d01e620ecbce5465?fccid=89eee8d9ca48aa88&vjs=3
+15,Database+administrator,San Francisco,"new post Donor Database Administrator
+- job post",-1,"<div>
+ <div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          Saint Joseph Notre Dame High School is a co-educational, college preparatory, Catholic high school located in the heart of residential Alameda. SJND offers academic excellence and moral development to its diverse and talented 400+ students where we develop confident, open-minded, and effective leaders who are ready to live joyful lives of faith, scholarship, and service.
+         </div>
+         <p></p>
+         <div>
+          <br> The Database Administrator works in partnership with the Director of Advancement and the Director of Alumni Relations and Annual Giving in advancing the mission of Saint Joseph Notre Dame High School, manages the donor database ensuring the overall accuracy and confidentiality of donor information and supports all Advancement fundraising activities for the school.
+         </div>
+         <p></p>
+         <div>
+          <b><br> This is an in-person/on site full-time, year-round position and is eligible for benefits.</b>
+         </div>
+         <p></p>
+         <div>
+          <br> Primary Responsibilities:
+         </div>
+         <ul>
+          <li>
+           <div>
+             Serve as the Blackbaud Raiser’s Edge (RE/NXT) donor database administrator
+           </div></li>
+          <li>
+           <div>
+             Ensure data accuracy and integrity, and administer database policies, procedures, and controls to effectively capture constituency information
+           </div></li>
+          <li>
+           <div>
+             Process all donor gifts, pledges, collect outstanding pledge payments, and generate acknowledgement letters
+           </div></li>
+          <li>
+           <div>
+             Generate fundraising, donor and statistical reports for the Advancement department as needed
+           </div></li>
+          <li>
+           <div>
+             Reconcile and prepare weekly, monthly and annual financial reports
+           </div></li>
+          <li>
+           <div>
+             Partner with the Business Office to reconcile monthly and annual contributions and support annual school audits
+           </div></li>
+          <li>
+           <div>
+             Support the Director of Advancement with the student scholarships data and reporting
+           </div></li>
+          <li>
+           <div>
+             Provide lists for fundraising and alumni campaigns, events, newsletters, Update magazine, Annual Donor Report, and other requests as needed
+           </div></li>
+          <li>
+           <div>
+             Prepare annual endowment performance letters and annual tax letters for donations received
+           </div></li>
+          <li>
+           <div>
+             Assist in the execution of fundraising and alumni relations events, and special projects as needed
+           </div></li>
+          <li>
+           <div>
+             Advance job expertise by participating in professional development opportunities
+           </div></li>
+         </ul>
+         <div>
+          <br> Skills &amp; Qualifications:
+         </div>
+         <ul>
+          <li>
+           <div>
+             Supports the values of Catholic school education and the SJND mission
+           </div></li>
+          <li>
+           <div>
+             Extensive experience with Raiser's Edge/NXT in a school or other non-profit environment is mandatory, especially regarding query, exporting, analysis and reporting
+           </div></li>
+          <li>
+           <div>
+             A team player with a positive mindset, strong work ethic, professional attitude, and the ability to receive direction and feedback
+           </div></li>
+          <li>
+           <div>
+             Bachelor’s degree (or equivalent experience) and a minimum of 3 years experience in a comparable role
+           </div></li>
+          <li>
+           <div>
+             Strong attention to detail
+           </div></li>
+          <li>
+           <div>
+             Excellent written and verbal communications skills
+           </div></li>
+          <li>
+           <div>
+             Experience with leading event registration is a plus
+           </div></li>
+          <li>
+           <div>
+             Demonstration of a clear ability to adapt rapidly to evolving priorities and deadlines
+           </div></li>
+          <li>
+           <div>
+             Demonstrated ability to be a self-starter with the ability to work on multiple projects concurrently, prioritize workload, with on-time and high-quality delivery
+           </div></li>
+          <li>
+           <div>
+             Willing to participate in occasional evening and weekend events
+           </div></li>
+         </ul>
+         <div></div>
+         <div>
+          <br> Compensation + Benefits
+         </div>
+         <p> Annual salary range for this full-time position is $65,000-$70,000 and is dependent upon qualifications, and experience. The school offers a comprehensive benefit package which includes participation in the Diocese of Oakland pension plan (8% employer contribution) and retirement program (403b), and full medical, visual, and dental plans.</p>
+         <div>
+           To Apply:
+         </div>
+         <div>
+           Please click here and you will be directed to SJND's Career Center via the ADP Workforce Now portal. Please include a:
+         </div>
+         <ul>
+          <li>
+           <div>
+             Cover letter expressing your interest in Saint Joseph Notre Dame High School
+           </div></li>
+          <li><p> Current resume</p></li>
+          <li><p> 3-5 references upon request</p></li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$65,000 - $70,000 a year</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Evenings as needed</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Year round work</div></div></div></div></div></div>",-1,,,https://www.indeed.com/rc/clk?jk=0effa652f775bc58&fccid=dd616958bd9ddc12&vjs=3
+16,Database+administrator,San Francisco,"new post Cassandra DBA
+- job post",-1,"<p><b>Role :: Cassandra Database Administrator</b></p>
+<p><b>Location :: San Leandro CA or Concord CA (day1 onsite Hybrid 3 days in a week onsite)</b></p>
+<p><b>Note : Only local candidate</b></p>
+<p><b>Job Description:</b></p>
+<ul>
+ <li>5+ years of experience with Cassandra Agile, Kanban, or Lean methodology Practical knowledge of ITIL application processes and implementation</li>
+ <li>Knowledge and understanding of Cloud computing, PaaS design principles and micro services and containers</li>
+ <li>Experience with Agile Scrum (Daily Standup, Sprint Planning and Sprint Retrospective meetings) and Kanban</li>
+ <li>JIRA experience</li>
+ <li>Experience 1+ year of experience with in-memory databases such as Cassandra</li>
+ <li>Advanced scripting skills specifically around automation, log rotation, data collection, error collection and alerting</li>
+ <li>Ability to influence and build relationships with LOB stakeholders, technology CIO leadership, external service providers, and architecture teams</li>
+</ul>
+<p>Ability to work on call as assigned</p>
+<p>Job Type: Contract</p>
+<p>Pay: $101,154.40 - $121,820.35 per year</p>
+<p>Work Location: In person</p>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$101,154 - $121,820 a year</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Contract</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">On call</div></div></div></div></div></div>",-1,,,https://www.indeed.com/company/Winwire-Technologies/jobs/Database-Administrator-0593558daf25e900?fccid=fd47bffaf068bfb4&vjs=3
+17,Database+administrator,San Francisco,"new post Cassandra DBA
+- job post",-1,"<p>Greetings everyone,</p>
+<p>I hope you are staying safe. We are hiring a <b>Cassandra DBA onsite role</b> to join our Digital Engineering team.</p>
+<p>Who are we?</p>
+<p>For the past 20 years, we have powered many Digital Experiences for the Fortune 500. Since 1999, we have grown from a few people to more than 4000 team members across the globe that are engaged in various Digital Modernization. For a brief 1 minute video about us, you can check https://youtu.be/uJWBWQZEA6o.</p>
+<p><b>Cassandra DBA</b></p>
+<p>Location: San Leandro, CA</p>
+<p>Responsibilities:</p>
+<ul>
+ <li>Lead complex or critical database management initiatives that typically involve multiple disciplines and business groups, including database architecture, design, integration and data modeling. Provide the highest technical expertise for the planning, research, design implementation, maintenance, and control of server class databases. Review and analyze complex database technologies that require in depth evaluation of multiple factors including intangibles or unprecedented factors.</li>
+ <li>Design and certify next generation database technologies. Assist in database installations, including troubleshooting and problem resolution. Recommend improvements to web application processing issues and design.</li>
+ <li>Consult with multiple client groups to provide strategic solutions, influencing long range internal and enterprise level database architecture and management strategies.</li>
+ <li>Provide technical leadership and recommendation into the future direction of database technology. Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals.</li>
+</ul>
+<p>Required Qualifications: 5+ years of Database Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education.</p>
+<p>Requirements:</p>
+<p>6+ years of experience in working in Database, Data Management, or Engineering roles</p>
+<p>5+ years of progressive experience in high volume/high transaction data administration</p>
+<p>6+ years of experience managing NoSQL databases such as Cassandra.</p>
+<p>4+ years of experience in performance tuning and database monitoring</p>
+<p>4+ years of experience in architecture and design of data systems using multiple data platforms</p>
+<p>Cassandra cluster planning which includes Data sizing estimation, and identify hardware requirements based on the estimated data size and transaction volume.</p>
+<p>Create, install, and configure a Cassandra cluster</p>
+<p>Use tools to monitor cluster availability and performance</p>
+<p>Conduct a stress test on a Cassandra cluster and interpret the performance results</p>
+<p>Cassandra Data Modelling, NoSQL Architecture, Keyspace, Table, Index creation, User creation &amp; access administration.</p>
+<ul>
+ <li>CQL Queries to support Integration with Cassandra</li>
+</ul>
+<p>Job Type: Contract</p>
+<p>Salary: $50.04 - $60.00 per hour</p>
+<p>Benefits:</p>
+<ul>
+ <li>Employee assistance program</li>
+</ul>
+<p>Schedule:</p>
+<ul>
+ <li>8 hour shift</li>
+</ul>
+<p>Ability to commute/relocate:</p>
+<ul>
+ <li>Concord, CA 94520: Reliably commute or planning to relocate before starting work (Required)</li>
+</ul>
+<p>Experience:</p>
+<ul>
+ <li>Cassandra: 4 years (Required)</li>
+</ul>
+<p>Work Location: In person</p>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$50.04 - $60.00 an hour</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Contract</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">8 hour shift</div></div></div></div></div></div>",-1,,,https://www.indeed.com/company/PHOTON/jobs/Database-Administrator-857872b54fc71705?fccid=2991b2efe601571d&vjs=3
+18,Database+administrator,San Francisco,"new post Database Administrator (Non Profit)
+- job post",-1,"<p><b>Job Title: Salesforce Database Administrator </b><br><b>Reports To: </b> <b>Chief Development Officer </b><br><b>Office Location: Pleasant Hill, CA</b></p>
+<p>Special Olympics Northern California's (SONC) mission is to create an inclusive community where people with and without disabilities can make connections, develop healthy lifestyles, achieve success, and experience the joy of sports.</p>
+<p><b>Position Summary: </b><br>The Salesforce Database Administrator will perform data management supporting the Development department with updating records from various revenue sources, including donations from: Donor Advise Funds, corporate and individual giving, events, and fundraising activities. Daily tasks will include downloading reports, data entry, data hygiene, and updating records. Employee will assist with establishing and implementing procedures for correctly entering data; pulling records and reports for activities; and ensuring the integrity of the data in our organizational CRM. Position is part of the implementation team for any new apps that will integrate with Salesforce that affect the development department. Responsible for developing a training program and conducting training to teach staff ongoing Salesforce functions and best practices, as well as train on any new software.</p>
+<p><b>Responsibilities/ Essential Functions:</b></p>
+<ul>
+ <li>Process financial gifts made to Special Olympics Northern California by individual, foundation, and corporate contributors.</li>
+ <li>Ensure correct syncing from other systems into Salesforce, such as the peer-to-peer fundraising and online auction platform.</li>
+ <li>Maintain Campaigns, their relationships to online tools, and to one another.</li>
+ <li>Work with IT to streamline input forms and create workflows for Development.</li>
+ <li>Run reports and build dashboards for Development staff as requested.</li>
+ <li>Keep the membership team up to date and trained on all aspects tracked in Salesforce related to maintaining excellent customer service with donors.</li>
+ <li>Work with the CFO on cross-referencing batch reports from the Finance department with data in Salesforce</li>
+ <li>Assist with on-site registration for events as needed.</li>
+ <li>Assist with the policies and procedures for the creation of new records and existing records in an accurate and consistent way that upholds existing business rules.</li>
+ <li>Assist with the maintenance of Salesforce to serve the needs of the Development and Finance departments.</li>
+ <li>Assist and provide support and training to development staff as they utilize Salesforce in their daily work.</li>
+ <li>Respond to internal and external inquiries regarding data contained in the database and research and resolve problems.</li>
+ <li>Assist staff with searches, running reports, and performing extractions of data.</li>
+ <li>Write and ensure that documentation is consistently up to date as related to Standard Operating Procedures that define the setup and configuration of all development organizational database(s).</li>
+ <li>Coordinate and perform standard housekeeping duties in relation to the organizational database to ensure that the database is always up to date and well maintained.</li>
+ <li>Work effectively with others in a team-based environment to accomplish the organization’s goals and to identify and resolve problems.</li>
+ <li>Serve as a member of the Development department, working in conjunction with the IT and Finance departments.</li>
+</ul>
+<p><b>Qualifications, Skills &amp; Experiences:</b></p>
+<ul>
+ <li>BS Degree in Computer Science, Math, Business, or related discipline.</li>
+ <li>At least three years’ experience in an equivalent position.</li>
+ <li>Technical skills/ experience needed include: o Strong experience with Salesforce (preferably NPSP) and a must in Report/Dashboard development and data hygiene. o SQL (SaaS Azure environment). o Spreadsheet tools such as Microsoft Excel, SharePoint, and Power BI. o Experience with the Google Docs environment. o Data visualization software; UpMetrics is a plus. o Mathematical and statistical skills.</li>
+ <li>Experience working with a non-profit organization.</li>
+ <li>Project management experience.</li>
+ <li>Provide end-user training and orientation on systems.</li>
+ <li>Above average communications skills, both oral and written.</li>
+ <li>Comfortable learning and using new software programs.</li>
+ <li>Ability to develop and maintain effective working relationships.</li>
+ <li>Ability to manage one’s time effectively – to prioritize and to complete diverse assignments concurrently when working on a deadline.</li>
+ <li>Ability to work independently.</li>
+ <li>Flexibility - managing competing demands and adapting to changes in the work environment.</li>
+ <li>Commitment to excellence.</li>
+ <li>Other duties as assigned.</li>
+</ul>
+<p>Benefits include, but are not limited to: Medical, Dental, Vision, 403(b) retirement plan, life and long-term disability insurance, vacation, sick and personal days, federal holidays, and a paid winter break.</p>
+<p>This position allows for a hybrid work environment.</p>
+<p><i>Special Olympics Northern California is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, ethnic background, religion, gender identity, gender expression, sexual orientation, age, national origin, or disabilities. Auxiliary aids and services are available upon request to individuals with disabilities; please let us know if you need accommodation for the interview process. We encourage applications from all qualified candidates, including those with diverse backgrounds.</i></p>
+<p>Job Type: Full-time</p>
+<p>Pay: From $31.25 per hour</p>
+<p>Schedule:</p>
+<ul>
+ <li>Monday to Friday</li>
+</ul>
+<p>Work Location: Hybrid remote in Pleasant Hill, CA 94523</p>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">From $31.25 an hour</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Full-time</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Monday to Friday</div></div></div></div></div></div>",-1,,,https://www.indeed.com/company/Special-Olympics-of-Northern-California/jobs/Database-Administrator-35201fdf3be9d942?fccid=23c11bb5bac594b4&vjs=3
+19,Database+administrator,San Francisco,"new post Sr. MSSQL DB Administrator
+- job post",-1,"<p><b>Best Regards,Job Title: Sr. MSSQL DB AdministratorLocation: Oakland, CADuration: 11 MonthsDescription:</b>In addition to the responsibilities below, this position is responsible for leading a team of database administrators and will be the escalation point for troubleshooting complex issues in multi-tiered application environments. This position will require working directly with the systems engineering team members to help solve issues that span multiple technology tiers, storage/network/server. The person in this position will be responsible to perform various database administration activities for SQL Server 2012/2016 databases on Microsoft Server infrastructure hosted on both physical and virtual platforms.<b>Essential Responsibilities:</b>SQL Server database administration, configuration, load balancing, performance tuning, backup, and recovery.<br>Database sizing and space management, SQL and command shell programming, SQL tuning, diagnostics of SQL Server 2012, 2016, 2019.<br>Support deployment of updated SQL code.<br>Work with development teams on identifying badly performing queries.<br>Enhance existing monitoring tools configurations to predict system issues.<br>Increase uptime by enhancing and supporting HA configurations of both single-site and multi-site SQL instances.<br>Maintains working knowledge of the IT industry and vendor market to effectively address the development of database software systems and the ongoing demands for enhancements to existing systems to provide efficient services to business departments and other database/application users.<br>Researches, evaluates, and recommends database educational material to peers and management.<br>Performs other job-related duties requiring the same general knowledge, skills and degree of responsibility equivalent to the assigned level.<br>Ability to provide on-call support during off-business hours on regular days and the weekends<br>Strong technical documentation skills<br>Highly self-motivated and directed<br>Keen attention to detail<br>Proven analytical and problem-solving abilities.<br>Ability to effectively prioritize and execute tasks in a high-pressure environment.<br>Strong customer service orientation<br>Experience working in a team-oriented, collaborative environment<br><b>Qualifications:</b>Creation and administration of Microsoft SQL Server 2012/2016 databases on Windows platform, using automation to execute timely administration-based tasks.<br>Extensive experience of Always-on and Availability Groups in a multi-site environment.<br>Ensure appropriate jobs are scheduled to maintain nightly maintenance jobs<br>Document of database configuration and on-going management of configuration drifts, continuous review of existing and creation of new database processes and procedures, periodic entitlement reviews.<br>Upgrading and patching Microsoft SQL Server 2012/2016/2019 databases<br>Implementation, administration, and usage of industry tools like SQL Server Management Studio, SQL Server Reporting Services, Idera SQL DM.<br>Knowledge of Microsoft Clustering Services and SQL Server Clusters is a plus.<br>Experience with disaster recovery on SQL standalone and clustered environments is a plus.<br>Development and implementation of database automation solutions and performing quality assurance verification of various database project implementations.<br>Proactive database performance monitoring and tuning, optimization of existing and creation of new database performance monitoring procedures.<br><b>Preferred Qualifications:</b>Eight (8) years of Microsoft SQL Enterprise experience<br>Five (5) years of experience in managing MSSQL clusters.<br>Three (3) years of combined experience using enterprise SQL monitoring tools.<br>Three (3) years of experience writing documentation or standard operating procedures related to database administration.</p>
+<p><b>Karun | Sr. Technical Recruiter</b></p>
+<p><b>|* </b>Email:* bkarunakar at futransolutions.com</p>
+<p><b>1235 US Highway 1 STE 2100, Edison, NJ, 08837.</b></p>
+<p>Job Type: Contract</p>
+<p>Pay: $60.00 - $65.00 per hour</p>
+<p>Experience:</p>
+<ul>
+ <li>MySQL: 10 years (Required)</li>
+ <li>Database administration: 5 years (Required)</li>
+ <li>Clustering: 4 years (Required)</li>
+</ul>
+<p>Work Location: Hybrid remote in Oakland, CA 94601</p>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$60 - $65 an hour</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Contract</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Weekends as needed</div></div></div><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">On call</div></div></div></div></div></div>",-1,,,https://www.indeed.com/company/Fisec-Global-Inc./jobs/Senior-Database-Administrator-e80dcb99e8d5cdfa?fccid=58e1591d342807a8&vjs=3
+20,Database+administrator,San Francisco,"new post CASSANDRA ADMIN
+- job post",-1,"<p>EXPERIENCE : 10 TO 15 Years</p>
+<p>Client Name : Infosys</p>
+<ul>
+ <li>Candidate has confirmed to work onsite from day 1 -------------- Yes/ No</li>
+ <li>Exp. in Cassandra Administration</li>
+ <li>Exp. in DevOps</li>
+ <li>Exp. in CICD</li>
+</ul>
+<p>Job Type: Contract</p>
+<p>Salary: $60.00 - $70.00 per hour</p>
+<p>Schedule:</p>
+<ul>
+ <li>8 hour shift</li>
+</ul>
+<p>Ability to commute/relocate:</p>
+<ul>
+ <li>San Francisco, CA: Reliably commute or planning to relocate before starting work (Required)</li>
+</ul>
+<p>Experience:</p>
+<ul>
+ <li>Cassandra: 10 years (Preferred)</li>
+ <li>DevOps: 10 years (Preferred)</li>
+ <li>Oracle: 10 years (Preferred)</li>
+ <li>CI/CD: 10 years (Preferred)</li>
+</ul>","<div class=""jobsearch-JobDescriptionSection-title css-4m8ia3 eu4oa1w0""><h2 tabindex=""-1"" id=""jobDetails"" class=""css-7h8yst e1tiznh50"">Job details</h2><div class=""css-1bkjm6j e37uo190""><span>Here’s how the job details align with your job preferences.</span><span>Manage job preferences anytime in your <a href=""https://profile.indeed.com"" aria-label=""job preferences (opens in a new window)"" target=""_blank"" rel=""noopener"" class=""css-6pji5a emf9s7v0"">profile<svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class="" css-r5jz5s eac13zx0""><path d=""M14.504 3a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h3.085l-9.594 9.594a.5.5 0 000 .707l.707.708a.5.5 0 00.707 0l9.594-9.595V9.5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-6a.5.5 0 00-.5-.5h-6z""></path><path d=""M5 3.002a2 2 0 00-2 2v13.996a2 2 0 001.996 2.004h14a2 2 0 002-2v-6.5a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5v6.5L5 18.998V5.002L11.5 5a.495.495 0 00.496-.498v-1a.5.5 0 00-.5-.5H5z""></path></svg></a>.</span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M4.434 11.548a3.757 3.757 0 00-.434-.15V8.613A3.747 3.747 0 006.612 6h6.773a3.734 3.734 0 00.963 1.652A3.75 3.75 0 0016 8.614v2.783A3.743 3.743 0 0013.39 14H6.609a3.745 3.745 0 00-2.175-2.452zM2 4.5a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v11a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5v-11zm8 8a2.5 2.5 0 100-5 2.5 2.5 0 000 5zm10-3.025v8.5H5.5a.5.5 0 00-.5.5v1a.5.5 0 00.5.5h15.71c.58 0 .79-.208.79-.788V9.475a.5.5 0 00-.5-.5h-1a.5.5 0 00-.5.5z"" clip-rule=""evenodd""></path></svg>Pay</div><div class=""css-1hplm3f eu4oa1w0""><span class=""css-2iqe2o eu4oa1w0""><div class=""css-gle1f1 e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">$60 - $70 an hour</div></div></div></span></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M7 7H2.5a.5.5 0 00-.5.5V11h20V7.5a.5.5 0 00-.5-.5H17s-1-4-5-4-5 4-5 4zm8 0H9s.5-2 3-2 3 2 3 2z"" clip-rule=""evenodd""></path><path d=""M10 13H2v7.5a.5.5 0 00.5.5h19a.5.5 0 00.5-.5V13h-8c0 1-1 2-2 2s-2-1-2-2z""></path></svg>Job Type</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">Contract</div></div></div></div></div></div><div class=""css-4m8ia3 eu4oa1w0""><div class=""css-fhkva6 eu4oa1w0""><svg xmlns=""http://www.w3.org/2000/svg"" focusable=""false"" role=""img"" fill=""currentColor"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""css-r72e78 eac13zx0""><path fill-rule=""evenodd"" d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.996-14.746a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v4.844l3.505 2.023a.25.25 0 01.091.342l-.75 1.299a.25.25 0 01-.341.091l-4.502-2.599h-.003v-6z"" clip-rule=""evenodd""></path></svg>Shift and Schedule</div><div class=""css-1hplm3f eu4oa1w0""><div class=""css-1ud8c42 eu4oa1w0""><div class=""css-1p3gyjy e1xnxm2i0""><div class=""css-g6kqeb ecydgvn0""><div class=""css-tvvxwd ecydgvn1"">8 hour shift</div></div></div></div></div></div>",-1,,,https://www.indeed.com/company/Infinity-Quest/jobs/Cassandra-Admin-9bed8ebb3f3c560f?fccid=8a1252dc7db432f1&vjs=3
